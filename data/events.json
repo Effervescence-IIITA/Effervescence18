@@ -290,28 +290,30 @@
 	  ]
 	},
 	{
-	  "id": 113,
-	  "name": "Android Gamer's Asylum",
-	  "description": "This event consists of a competition of popular Android Games like Mini Militia, Bomb Squad.",
-	  "location": "CC-3",
-	  "timestamp": 1507914000,
-	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/android.png",
-	  "facebookEventLink": "https://www.facebook.com/events/831286057040427/",
-	  "additionalInfo": [],
-	  "categories": [
-		"informal",
-		"gaming"
-	  ],
-	  "organizers": [
-		{
-		  "name": "Harsh Jain",
-		  "phoneNumber": 8349454791
-		},
-		{
-		  "name": "Pulkit Jaroli",
-		  "phoneNumber": 7572089974
-		}
-	  ]
+		"id": 113,
+		"name": "PUBG Mobile",
+		"description": "This event consists of a competition of popular Android Game PUBG Mobile",
+		"location": "CC-3",
+		"timestamp": 1507914000,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/android.png",
+		"facebookEventLink": "https://www.facebook.com/events/1135270196637446/",
+		"additionalInfo": [],
+		"categories": [
+			"informal",
+			"gaming"
+		],
+		"organizers": [{
+				"name": "Taponidhi Tulsi",
+				"phoneNumber": 8076287598
+			},
+			{
+				"name": "Vijeta",
+				"phoneNumber": 7376369830
+			},
+			{	"name": "Aman Vats",
+			 	"phoneNumber": 8209478790
+			}
+		]
 	},
 	{
 	  "id": 114,
@@ -918,7 +920,7 @@
 		}
 	  ]
 	},
-	{
+  {
 	  "id": 140,
 	  "name": "Meme Slam",
 	  "description": "Meme Slam, is the launchpad for people with a good sensse of humour who can put their cool ideas on posts(not paper!)..",
@@ -931,115 +933,107 @@
 		"literature"
 	  ],
 	  "organizers": []
+	}, 
+	{
+		"id": 141,
+		"name": "Sketcher",
+		"description": "Sketcher is an online sketching competition for all the art lovers out there. You just have to take a pencil or a pen or pencil colours and shape your imagination on the paper.",
+		"location": "Online",
+		"timestamp": 2,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/sketcher.jpg",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"fine arts"
+		],
+		"organizers": [{
+				"name": "Gaurav Verma",
+				"phoneNumber": 8005686630
+			},
+			{
+				"name": "Kunal Kumar",
+				"phoneNumber": 9110139695
+			}
+		]
 	},
 	{
-	  "id": 141,
-	  "name": "Sketcher",
-	  "description": "Sketcher is an online sketching competition for all the art lovers out there. You just have to take a pencil or a pen or pencil colours and shape your imagination on the paper.",
-	  "location": "Online",
-	  "timestamp": 2,
-	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/sketcher.jpg",
-	  "facebookEventLink": "",
-	  "additionalInfo": [],
-	  "categories": [
-		"fine arts"
-	  ],
-	  "organizers": [
-		{
-		  "name": "Avinash Yadav",
-		  "phoneNumber": 7524990644
-		},
-		{
-		  "name": "Manavdeep Singh",
-		  "phoneNumber": 7706904885
-		},
-		{
-		  "name": "Nitin Vijay",
-		  "phoneNumber": 9793016386
-		}
-	  ]
+		"id": 142,
+		"name": "Face Painting",
+		"description": "Face painting is an event where one participant showcase his talent by painting the face of his teammate based on the theme given on the spot.",
+		"location": "Pavilion",
+		"timestamp": 1508076000,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/facepainting.jpg",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"fine arts"
+		],
+		"organizers": [{
+				"name": "Ajay Kudal",
+				"phoneNumber": 9828479060
+			},
+			{
+				"name": "Vishvajeet Dhawale",
+				"phoneNumber": 7743804428
+			},
+			{
+				"name": "Dhariya Baweja",
+				"phoneNumber": 9873737826
+			}
+		]
 	},
 	{
-	  "id": 142,
-	  "name": "Face Painting",
-	  "description": "Face painting is an event where one participant showcase his talent by painting the face of his teammate based on the theme given on the spot.",
-	  "location": "Pavilion",
-	  "timestamp": 1508076000,
-	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/facepainting.jpg",
-	  "facebookEventLink": "",
-	  "additionalInfo": [],
-	  "categories": [
-		"fine arts"
-	  ],
-	  "organizers": [
-		{
-		  "name": "Pratyay Kumar",
-		  "phoneNumber": 8987599864
-		},
-		{
-		  "name": "Aditi Bansal",
-		  "phoneNumber": 8604833407
-		},
-		{
-		  "name": "Avinash Yadav",
-		  "phoneNumber": 7524990644
-		}
-	  ]
-	},
+		"id": 143,
+		"name": "Graffiti",
+		"description": "Do you feel that that drawing sheet is too small to showcase your imagination? Graffiti is the best place for you in such a case!",
+		"location": "SAC and Pavilion",
+		"timestamp": 1507903200,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/graffiti.jpg",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"fine arts"
+		],
+		"organizers": [{
+				"name": "Gaurav Verma",
+				"phoneNumber": 8005686630
+			},
+			{
+				"name": "Kunal Kumar",
+				"phoneNumber": 9110139695
+			},
+			{
+				"name": "Raghav Dhupar",
+				"phoneNumber": 9463893266
+			}
+		]
+  },
 	{
-	  "id": 143,
-	  "name": "Graffiti",
-	  "description": "Do you feel that that drawing sheet is too small to showcase your imagination? Graffiti is the best place for you in such a case!",
-	  "location": "SAC and Pavilion",
-	  "timestamp": 1507903200,
-	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/graffiti.jpg",
-	  "facebookEventLink": "",
-	  "additionalInfo": [],
-	  "categories": [
-		"fine arts"
-	  ],
-	  "organizers": [
-		{
-		  "name": "Vinit Mankar",
-		  "phoneNumber": 7706020707
-		},
-		{
-		  "name": "Lekhika Dugtal",
-		  "phoneNumber": 8588962787
-		},
-		{
-		  "name": "Prakash Kumar",
-		  "phoneNumber": 7361938303
-		}
-	  ]
-	},
-	{
-	  "id": 144,
-	  "name": "Toon Coon",
-	  "description": "Toon Coon is where you can make a cartoon based on the themes which will be provided to you on the spot.",
-	  "location": "Pavilion",
-	  "timestamp": 1508072400,
-	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/tooncon.jpg",
-	  "facebookEventLink": "",
-	  "additionalInfo": [],
-	  "categories": [
-		"fine arts"
-	  ],
-	  "organizers": [
-		{
-		  "name": "Sanam Bahadur",
-		  "phoneNumber": 7376286670
-		},
-		{
-		  "name": "Akanksha Goyal",
-		  "phoneNumber": 9458466390
-		},
-		{
-		  "name": "Manavdeep Singh",
-		  "phoneNumber": 7706904885
-		}
-	  ]
-	},
+		"id": 144,
+		"name": "Toon Coon",
+		"description": "Toon Coon is where you can make a cartoon based on the themes which will be provided to you on the spot.",
+		"location": "Pavilion",
+		"timestamp": 1508072400,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/tooncon.jpg",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"fine arts"
+		],
+		"organizers": [{
+				"name": "Vijeta",
+				"phoneNumber": 7376369830
+			},
+			{
+				"name": "Komal Bhadani",
+				"phoneNumber": 7209293940
+			},
+			{
+				"name": "Rashan",
+				"phoneNumber": 7986585385
+			}
+		]
+  },
 	{
 	  "id": 145,
 	  "name": "Tasveer",
@@ -1269,5 +1263,31 @@
 		"pro shows"
 	  ],
 	  "organizers": []
+	},
+ {
+		"id": 157,
+		"name": "T-shirt Painting",
+		"description": "T-shirt Painting is where you can make a your own art on tshirt  based on the themes which will be provided to you on the spot.",
+		"location": "Pavilion",
+		"timestamp": 1507903200,
+		"imageUrl": "",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"fine arts"
+		],
+		"organizers": [{
+				"name": "Lovely Digra",
+				"phoneNumber": 7973036427
+			},
+			{
+				"name": "Sahil Goyal",
+				"phoneNumber": 8059353545 
+			},
+			{
+				"name": "Parth Raman",
+				"phoneNumber": 9521614125
+			}
+		]
 	}
 ]
