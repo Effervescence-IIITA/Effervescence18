@@ -278,8 +278,8 @@
 	},
 	{
 		"id": 113,
-		"name": "Android Gamer's Asylum",
-		"description": "This event consists of a competition of popular Android Games like Mini Militia, Bomb Squad.",
+		"name": "PUBG Mobile",
+		"description": "This event consists of a competition of popular Android Game PUBG Mobile",
 		"location": "CC-3",
 		"timestamp": 1507914000,
 		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/android.png",
@@ -290,12 +290,15 @@
 			"gaming"
 		],
 		"organizers": [{
-				"name": "Harsh Jain",
-				"phoneNumber": 8349454791
+				"name": "Taponidhi Tulsi",
+				"phoneNumber": 8076287598
 			},
 			{
-				"name": "Pulkit Jaroli",
-				"phoneNumber": 7572089974
+				"name": "Vijeta",
+				"phoneNumber": 7376369830
+			},
+			{	"name": "Aman Vats",
+			 	"phoneNumber": 8209478790
 			}
 		]
 	},
