@@ -911,18 +911,13 @@
 			"fine arts"
 		],
 		"organizers": [{
-				"name": "Avinash Yadav",
-				"phoneNumber": 7524990644
+				"name": "Gaurav Verma",
+				"phoneNumber": 8005686630
 			},
 			{
-				"name": "Manavdeep Singh",
-				"phoneNumber": 7706904885
-			},
-			{
-				"name": "Nitin Vijay",
-				"phoneNumber": 9793016386
+				"name": "Kunal Kumar",
+				"phoneNumber": 9110139695
 			}
-
 		]
 
 	},
@@ -939,16 +934,16 @@
 			"fine arts"
 		],
 		"organizers": [{
-				"name": "Pratyay Kumar",
-				"phoneNumber": 8987599864
+				"name": "Ajay Kudal",
+				"phoneNumber": 9828479060
 			},
 			{
-				"name": "Aditi Bansal",
-				"phoneNumber": 8604833407
+				"name": "Vishvajeet Dhawale",
+				"phoneNumber": 7743804428
 			},
 			{
-				"name": "Avinash Yadav",
-				"phoneNumber": 7524990644
+				"name": "Dhariya Baweja",
+				"phoneNumber": 9873737826
 			}
 		]
 	},
@@ -965,20 +960,21 @@
 			"fine arts"
 		],
 		"organizers": [{
-				"name": "Vinit Mankar",
-				"phoneNumber": 7706020707
+				"name": "Gaurav Verma",
+				"phoneNumber": 8005686630
 			},
 			{
-				"name": "Lekhika Dugtal",
-				"phoneNumber": 8588962787
+				"name": "Kunal Kumar",
+				"phoneNumber": 9110139695
 			},
 			{
-				"name": "Prakash Kumar",
-				"phoneNumber": 7361938303
+				"name": "Raghav Dhupar",
+				"phoneNumber": 9463893266
 			}
 
 		]
 	},
+ 
 	{
 		"id": 144,
 		"name": "Toon Coon",
@@ -992,16 +988,16 @@
 			"fine arts"
 		],
 		"organizers": [{
-				"name": "Sanam Bahadur",
-				"phoneNumber": 7376286670
+				"name": "Vijeta",
+				"phoneNumber": 7376369830
 			},
 			{
-				"name": "Akanksha Goyal",
-				"phoneNumber": 9458466390
+				"name": "Komal Bhadani",
+				"phoneNumber": 7209293940
 			},
 			{
-				"name": "Manavdeep Singh",
-				"phoneNumber": 7706904885
+				"name": "Rashan",
+				"phoneNumber": 7986585385
 			}
 		]
 	},
@@ -1234,5 +1230,32 @@
 			"pro shows"
 		],
 		"organizers": []
+	}
+ {
+		"id": 157,
+		"name": "T-shirt Painting",
+		"description": "T-shirt Painting is where you can make a your own art on tshirt  based on the themes which will be provided to you on the spot.",
+		"location": "Pavilion",
+		"timestamp": 1507903200,
+		"imageUrl": "",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"fine arts"
+		],
+		"organizers": [{
+				"name": "Lovely Digra",
+				"phoneNumber": 7973036427
+			},
+			{
+				"name": "Sahil Goyal",
+				"phoneNumber": 8059353545 
+			},
+			{
+				"name": "Parth Raman",
+				"phoneNumber": 9521614125
+			}
+
+		]
 	}
 ]
