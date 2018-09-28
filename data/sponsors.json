@@ -34,7 +34,7 @@
  {  
   "id":112,
   "name":"Anwar",
-  "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/fbb.png",
+  "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/Anwar.jpg",
   "categories":[  
      "Make Up and Styling Partner",
      "A'la Mode"
@@ -65,23 +65,12 @@
     "priority": 4
   },
   {
-    "id": 114,
-    "name": "The Verb Studio",
-    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/verb.png",
-    "categories": [
-      "Event Partner",
-      "Footloose"
-    ],
-    "website": "http://www.theverbstudio.com/",
-    "priority": 4
-  },
-  {
     "id": 1007,
     "name": "Wittyfeed",
     "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/wittyFeed.jpg",
     "categories": [
       "Official Outreach Partner",
-      "Event Partner Footloose"
+      "Event Partner Carpedium"
     ],
     "website": "https://www.wittyfeed.tv/",
     "priority": 4
@@ -326,7 +315,7 @@
   {
     "id": 1001,
     "name": "Festpav",
-    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/festPav.jpg",
+    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/festPav.png",
     "categories": [
       "Online Media Partner"
     ],
