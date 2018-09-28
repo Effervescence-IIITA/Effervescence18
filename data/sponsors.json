@@ -34,7 +34,7 @@
  {  
   "id":112,
   "name":"Anwar",
-  "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/Anwar.jpg",
+  "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/Anwar.jpg",
   "categories":[  
      "Make Up and Styling Partner",
      "A'la Mode"
@@ -46,6 +46,17 @@
     "id": 1012,
     "name": "Madagascar",
     "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/madagascar.png",
+    "categories": [
+      "Event Partner",
+      "Innovation"
+    ],
+    "website": "",
+    "priority": 4
+  },
+  {
+    "id": 1013,
+    "name": "Fashion Dreams",
+    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/fashion.png",
     "categories": [
       "Event Partner",
       "Innovation"
@@ -98,6 +109,17 @@
     "priority": 4
   },
   {
+    "id": 1014,
+    "name": "Students Friends",
+    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/students.jpg",
+    "categories": [
+      "Event Partner",
+      "Model United Nations"
+    ],
+    "website": "",
+    "priority": 4
+  },
+  {
     "id": 117,
     "name": "Your Quote",
     "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/yourquote.png",
@@ -106,6 +128,17 @@
       "Open Mic"
     ],
     "website": "https://www.yourquote.in/",
+    "priority": 4
+  },
+  {
+    "id": 1015,
+    "name": "Terribly Dank Tales",
+    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/dank.jpg",
+    "categories": [
+      "Event Partner",
+      "MemeSlam"
+    ],
+    "website": "https://www.facebook.com/thedanktales/",
     "priority": 4
   },
   {
@@ -179,7 +212,16 @@
 		"website": "http://www.amul.com/",
 		"priority": 10
   },
-  
+  {
+		"id": 918,
+		"name": "Resonance Studios and Academy",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/resonance.png",
+		"categories": [
+			"Recording Partner"
+		],
+		"website": "http://resonancestudios.in/",
+		"priority": 10
+  },
   {
     "id": 1009,
     "name": "Peta YOUTH",
@@ -287,7 +329,7 @@
   "name": "ZNetLive",
   "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/zentLive.png",
   "categories": [
-    "Website Host"
+    "Website Hosting Partner"
   ],
   "website": "https://www.znetlive.com/",
   "priority": 15
@@ -300,6 +342,16 @@
     "Blogger Outreach Partner"
   ],
   "website": "https://www.blogadda.com/",
+  "priority": 16
+},
+{
+  "id": 1007,
+  "name": "WittyFeed",
+  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/bloagAdda.png",
+  "categories": [
+    "Official Outreach Partner"
+  ],
+  "website": "https://www.wittyfeed.tv/",
   "priority": 16
 },
 {
