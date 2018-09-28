@@ -577,7 +577,7 @@
 	  "name": "La Frenze",
 	  "description": "One of the most electrifying and enthralling dance events of Effervescence organized by the Dance society, this is a duet dance event.",
 	  "location": "Main Audi",
-	  "timestamp": 1507989600,
+	  "timestamp": 1538739000,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/lafrenze.jpg",
 	  "facebookEventLink": "https://www.facebook.com/events/1164246687041115/",
 	  "additionalInfo": [],
@@ -586,43 +586,55 @@
 	  ],
 	  "organizers": [
 		{
-		  "name": "Shubham",
-		  "phoneNumber": 7376286670
+			"name": "Amit KS",
+		  "phoneNumber": 8830608685
 		},
 		{
-		  "name": "Soumya Verma",
-		  "phoneNumber": 9458466390
+		  "name": "Pallak",
+		  "phoneNumber": 7379458308
 		},
 		{
-		  "name": "Simran Gill",
-		  "phoneNumber": 7317886616
+		  "name": "Prathmesh",
+		  "phoneNumber": 9971258661
+		},
+		{
+		  "name": "Priyal",
+		  "phoneNumber": 9672035741
 		}
 	  ]
 	},
 	{
 	  "id": 125,
-	  "name": "Carpe Diem",
+	  "name": "Carpe Dium",
 	  "description": "Because dancing requires great passion and not great skills. It is a solo dance competition.",
 	  "location": "Main Audi",
-	  "timestamp": 1507982400,
+	  "timestamp": 1538825400,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/carpediem.jpg",
-	  "facebookEventLink": "https://www.facebook.com/events/347888505659925/",
+	  "facebookEventLink": "",
 	  "additionalInfo": [],
 	  "categories": [
 		"dance"
 	  ],
 	  "organizers": [
 		{
-		  "name": "Aashi Pundir",
-		  "phoneNumber": 9599416067
+			"name": "Amit KS",
+		  "phoneNumber": 8830608685
 		},
 		{
-		  "name": "Suraj Singh",
-		  "phoneNumber": 7524098807
+		  "name": "Rishab Agarwal",
+		  "phoneNumber": 7987053194
 		},
 		{
-		  "name": "Saumya Verma",
-		  "phoneNumber": 9458466390
+		  "name": "Esha Jaiswal",
+		  "phoneNumber": 8303379389
+		},
+		{
+		  "name": "Anuj Raj",
+		  "phoneNumber": 9939753572
+		},
+		{
+		  "name": "Yogesh",
+		  "phoneNumber": 9977444901
 		}
 	  ]
 	},
@@ -654,7 +666,7 @@
 	  "name": "Bindass Bol (Nukkad Natak)",
 	  "description": "It is one of the art of drama through which you convey your thoughts or do satire on the social activities which are wrong but still happening in our society.",
 	  "location": "Basketball Court",
-	  "timestamp": 1538731800,
+	  "timestamp": 1538751600,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/nukkad.jpg",
 	  "facebookEventLink": "",
 	  "additionalInfo": [],
@@ -677,7 +689,7 @@
 	  "name": "Tongues On Fire",
 	  "description": "It is a fun event organized by the Dramatics Society where teams debate over common topics.",
 	  "location": "Cafeteria",
-	  "timestamp": 1538892000,
+	  "timestamp": 1538911800,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/tof.jpg",
 	  "facebookEventLink": "",
 	  "additionalInfo": [],
@@ -700,7 +712,7 @@
 	  "name": "Double Trouble",
 	  "description": "Another fun event of the Dramatics Society in which small tasks are given to the participants and points are awarded.",
 	  "location": "Cafeteria",
-	  "timestamp": 1538895600,
+	  "timestamp": 1538915400,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/doubletrouble.jpg",
 	  "facebookEventLink": "",
 	  "additionalInfo": [],
@@ -1106,7 +1118,7 @@
 	  "name": "Footloose: Finale",
 	  "description": "Groovy beats and Dancing. The main stage dance event at Effervescence promises the outpour of the hearts desires with the beats of music.",
 	  "location": "Main Stage",
-	  "timestamp": 1538751600,
+	  "timestamp": 1538771400,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/footloose.jpg",
 	  "facebookEventLink": "",
 	  "additionalInfo": [],
@@ -1138,7 +1150,7 @@
 	  "name": "Innovation",
 	  "description": "All emotions come at play with a plethora of feelings at the main stage event for Dramatics. A chance not only to showcase one's talent but also to take home a handsome cash prize.",
 	  "location": "Main Stage",
-	  "timestamp": 1538829000,
+	  "timestamp": 1538848800,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/innovation.jpg",
 	  "facebookEventLink": "",
 	  "additionalInfo": [],
