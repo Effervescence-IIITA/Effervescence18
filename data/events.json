@@ -2,34 +2,38 @@
 	{
 	  "id": 101,
 	  "name": "Gully Cricket",
-	  "description": "Effervescence'17 presents to you the most entertaining event \"GULLY CRICKET\". Make your Team of Bluster and Come to play game of spirit. Win Cash and other exciting prizes...",
+	  "description": "Effervescence gave people a Blast from the Past- a chance to reminisce and relive your fond memories of the past. The window panes you would have broken and the scoldings you got from the neighbours for the same!!! The huge participation it brings is understandable as is quite relatable.\nThis event features separate contests for both girls and boys.",
 	  "location": "Tennis Court",
-	  "timestamp": 1507885200,
+	  "timestamp": 1538710200,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/gully_cricket.jpg",
-	  "facebookEventLink": "https://www.facebook.com/events/1113514188781807/",
+	  "facebookEventLink": "https://www.facebook.com/events/2299253436770805/",
 	  "additionalInfo": [],
 	  "categories": [
 		"informal"
 	  ],
 	  "organizers": [
 		{
-		  "name": "Ashutosh Vishwakarma",
-		  "phoneNumber": 9457611044
+		  "name": "Ishan Arora",
+		  "phoneNumber": 8604371728
 		},
 		{
-		  "name": "Divy Vaishnav",
-		  "phoneNumber": 8058351196
+		  "name": "Shivansh Shrivastava",
+		  "phoneNumber": 7052563336
+		},
+		{
+		  "name": "Ravi Chaudhary",
+		  "phoneNumber": 7017165648
 		}
 	  ]
 	},
 	{
 	  "id": 102,
 	  "name": "Perplexus",
-	  "description": "An online treasure hunt competition for the ecth geeks who would like to keep it simple yet competitive!",
+	  "description": "Like the prizes of a treasure hunt but more content in avoiding the toil of loitering and trying to search for it and comfortable in front of your favourite screen? Here is one for the tech geeks! The satisfaction of claiming a treasure in the comfort of your couch!\nAn online treasure hunt competition for those who would like to keep it simple yet competitive! ",
 	  "location": "Online",
-	  "timestamp": 1507766400,
+	  "timestamp": 20,
 	  "imageUrl": "",
-	  "facebookEventLink": "https://www.facebook.com/events/1992044107749486/",
+	  "facebookEventLink": "",
 	  "additionalInfo": [],
 	  "categories": [
 		"informal"
@@ -48,9 +52,9 @@
 	{
 	  "id": 103,
 	  "name": "Stegolica",
-	  "description": "A delight for all the aspiring hackers, Stegolica is an online competition where you are expected to get the HIDDEN secret key but be aware because @wareness is the key .",
+	  "description": "A delight for all the aspiring hackers and crackers, Stegolica is an online cryptography competition which has one of the most toughest competitors trying to prove themselves. Participate and bring out the Alan Turing inside out you.",
 	  "location": "Online",
-	  "timestamp": 1507759200,
+	  "timestamp": 20,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/stegolica.jpg",
 	  "facebookEventLink": "https://www.facebook.com/events/120071321999931/",
 	  "additionalInfo": [],
@@ -71,50 +75,54 @@
 	{
 	  "id": 104,
 	  "name": "Futsal",
-	  "description": "Test your real life football skills and motor skill-mojo in this five-a-side, small area, short time version of football. Viva la futsal! ",
-	  "location": "Rann Bhoomi",
-	  "timestamp": 1507903200,
+	  "description": "It takes a lot of effort to find twenty players and large spaces to enjoy a game of football. Ninety minutes, though, is even  more of a problem. Test your real life football skills and motor skill-mojo in this five-a-side, small area, short time version of football. It doesn’t get any better than this! Viva la futsal!",
+	  "location": "Lawn Tennis Court",
+	  "timestamp": 1538731800,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/futsal.png",
-	  "facebookEventLink": "https://www.facebook.com/events/116311565708297/",
+	  "facebookEventLink": "https://www.facebook.com/events/328609754567393/",
 	  "additionalInfo": [],
 	  "categories": [
 		"informal"
 	  ],
 	  "organizers": [
 		{
-		  "name": "Badnena Upendra",
-		  "phoneNumber": 9831474771
+		  "name": "Vishal Pani",
+		  "phoneNumber": 7990826365
 		},
 		{
-		  "name": "Anirudh Singh Rathore",
-		  "phoneNumber": 9587984782
+		  "name": "Ayush Shukla",
+		  "phoneNumber": 7905996804
 		},
 		{
-		  "name": "Akshat",
-		  "phoneNumber": 7018776033
+		  "name": "Prasoon Maheshwari",
+		  "phoneNumber": 87703471757
 		}
 	  ]
 	},
 	{
 	  "id": 105,
 	  "name": "Blind Date",
-	  "description": "Let the cupid strike your heart, have a date to spend some time with and then well, who knows what can happen!",
+	  "description": "Many of us have a lover inside of us who has never dared to explode. Well , let the cupid strike your heart ,have a date to spend some time with and then well, who knows what can happen.",
 	  "location": "Cafeteria",
-	  "timestamp": 1507986000,
+	  "timestamp": 1538901000,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/blinddate.png",
-	  "facebookEventLink": "https://www.facebook.com/events/853548354812466/",
+	  "facebookEventLink": "https://www.facebook.com/events/248534825864661/",
 	  "additionalInfo": [],
 	  "categories": [
 		"informal"
 	  ],
 	  "organizers": [
 		{
-		  "name": "Pallak Srivastava",
-		  "phoneNumber": 7379458308
+		  "name": "Ananya",
+		  "phoneNumber": 7988277422
 		},
 		{
-		  "name": "Kamal Chaubey",
-		  "phoneNumber": 8127172661
+		  "name": "Aditi",
+		  "phoneNumber": 7404550807
+		},
+		{
+		  "name": "Mohit",
+		  "phoneNumber": 9198653377
 		}
 	  ]
 	},
@@ -123,25 +131,25 @@
 	  "name": "Night on Boards",
 	  "description": "This is event is for all the board game nerds, held at night for your convenience. Effervescence never sleeps and better even, never stops playing. Sounds perfect, no?",
 	  "location": "SAC",
-	  "timestamp": 1507939199,
-	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/nightonboards.png",
-	  "facebookEventLink": "https://www.facebook.com/events/509074202779922/",
+	  "timestamp": 1538677800,
+	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/nightonboard.png",
+	  "facebookEventLink": "https://www.facebook.com/events/241768719821713/",
 	  "additionalInfo": [],
 	  "categories": [
 		"informal"
 	  ],
 	  "organizers": [
 		{
-		  "name": "Shubham Varshney",
-		  "phoneNumber": 7052065360
+		  "name": "Abhishek Vishwakarma",
+		  "phoneNumber": 9560675107
 		},
 		{
-		  "name": "Ankit Kumar",
-		  "phoneNumber": 8171229764
+		  "name": "Aditya Raj",
+		  "phoneNumber": 9110969203
 		},
 		{
-		  "name": "Ravi Ranjan",
-		  "phoneNumber": 9470211354
+		  "name": "Krish Bhatiya",
+		  "phoneNumber": 9079662280
 		}
 	  ]
 	},
@@ -615,7 +623,7 @@
 	},
 	{
 	  "id": 126,
-	  "name": "Show off",
+	  "name": "Show Off",
 	  "description": "\"Show Off\" is an online dance competition.",
 	  "location": "Online",
 	  "timestamp": 2,
@@ -625,7 +633,16 @@
 	  "categories": [
 		"dance"
 	  ],
-	  "organizers": []
+	  "organizers": [
+			{
+				"name": "Arsh",
+				"phoneNumber": 8847245071
+			},
+			{
+				"name": "Priyanka",
+				"phoneNumber": 9123230473
+			}
+		]
 	},
 	{
 	  "id": 127,
@@ -1051,39 +1068,16 @@
 	  ],
 	  "organizers": [
 		{
-		  "name": "Ashwin Tagde",
-		  "phoneNumber": 7408235250
+		  "name": "Surabhi Gogte",
+		  "phoneNumber": 7776096078
 		},
 		{
-		  "name": "Nitish Verma",
-		  "phoneNumber": 8765923005
+		  "name": "Sashi Tarun",
+		  "phoneNumber": 7571829258
 		},
 		{
-		  "name": "Richa Vinian",
-		  "phoneNumber": 8400114665
-		}
-	  ]
-	},
-	{
-	  "id": 146,
-	  "name": "Mannequin Challenge",
-	  "description": "A great gang, a pinch of creativity, a recorder and that's all the ingredients required to fetch you cool prizes. So just play with your camera, juggle your mind and come with the most boggling mannequin.",
-	  "location": "Online",
-	  "timestamp": 2,
-	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/mannequin.jpg",
-	  "facebookEventLink": "",
-	  "additionalInfo": [],
-	  "categories": [
-		"AMS"
-	  ],
-	  "organizers": [
-		{
-		  "name": "Ajitesh  Gupta",
-		  "phoneNumber": 9005374250
-		},
-		{
-		  "name": "Siddhanth Srivastav",
-		  "phoneNumber": 8765531793
+		  "name": "Rohit Kumar",
+		  "phoneNumber": 8005329256
 		}
 	  ]
 	},
@@ -1101,12 +1095,12 @@
 	  ],
 	  "organizers": [
 		{
-		  "name": "Siddharth Simharaju",
-		  "phoneNumber": 8299061623
+		  "name": "Mayank Mrinal",
+		  "phoneNumber": 9113498612
 		},
 		{
-		  "name": "Saksham Singh",
-		  "phoneNumber": 9161896720
+		  "name": "Tanay Ghirnikar",
+		  "phoneNumber": 7447856401
 		}
 	  ]
 	},
@@ -1114,8 +1108,8 @@
 	  "id": 148,
 	  "name": "Footloose: Finale",
 	  "description": "Groovy beats and Dancing. The main stage dance event at Effervescence promises the outpour of the hearts desires with the beats of music.",
-	  "location": "Main Stage set inside the campus.",
-	  "timestamp": 1507930200,
+	  "location": "Main Stage",
+	  "timestamp": 1538751600,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/footloose.jpg",
 	  "facebookEventLink": "",
 	  "additionalInfo": [],
@@ -1125,16 +1119,20 @@
 	  ],
 	  "organizers": [
 		{
-		  "name": "Shashank Sharma",
-		  "phoneNumber": 9473508054
-		},
-		{
-		  "name": "Sakshi Singh",
-		  "phoneNumber": 8175856920
+		  "name": "Simran",
+		  "phoneNumber": 7317886616
 		},
 		{
 		  "name": "Amit KS",
-		  "phoneNumber": 7607033455
+		  "phoneNumber": 8830608685
+		},
+		{
+		  "name": "Yash",
+		  "phoneNumber": 9675804800
+		},
+		{
+		  "name": "Rollicks",
+		  "phoneNumber": 8555887043
 		}
 	  ]
 	},
