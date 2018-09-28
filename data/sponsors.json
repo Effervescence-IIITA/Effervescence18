@@ -78,7 +78,7 @@
   {
     "id": 1007,
     "name": "Wittyfeed",
-    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/wittyFeed.jpg",
+    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/wittyfeed.png",
     "categories": [
       "Official Outreach Partner",
       "Event Partner", "Carpedium"
@@ -153,8 +153,8 @@
   },
   {
     "id": 1014,
-    "name": "Ganna",
-    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/gaana.jpeg",
+    "name": "Gaana",
+    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/gaana.png",
     "categories": [
       "Online Music Partner"
     ],
@@ -205,7 +205,7 @@
   {
 		"id": 1019,
 		"name": "Amul",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/amul.png",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/Amul.png",
 		"categories": [
 			"Dairy Product Partner"
 		],
@@ -215,7 +215,7 @@
   {
 		"id": 1020,
 		"name": "Resonance Studios and Academy",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/resonance.png",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/Resonance.jpg",
 		"categories": [
 			"Recording Partner"
 		],
@@ -236,7 +236,7 @@
   {  
     "id": 1022,
     "name":"Canara",
-    "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/canara-bank.png",
+    "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/canara.png",
     "categories":[  
        "Banking Partner"
     ],
@@ -276,7 +276,7 @@
 {  
   "id": 1026,
   "name":"Bank of Baroda",
-  "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/bob.jpg",
+  "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/bob.png",
   "categories":[  
      "Banking Partner"
   ],
@@ -286,7 +286,7 @@
   {  
     "id":1027,
     "name":"SBI",
-    "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/sbi.jpg",
+    "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/sbi.png",
     "categories":[  
        "Banking Partner"
     ],
@@ -306,7 +306,7 @@
 {  
   "id": 1029,
   "name":"Indian Bank",
-  "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/indian.jpg",
+  "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/indian.png",
   "categories":[  
      "Banking Partner"
   ],
@@ -337,7 +337,7 @@
 {
   "id": 1032,
   "name": "Blogadda",
-  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/bloagAdda.png",
+  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/BlogAdda.png",
   "categories": [
     "Blogger Outreach Partner"
   ],
@@ -413,6 +413,16 @@
       "Online Media Partner"
     ],
     "website": "https://www.lawctopus.com/",
+    "priority": 18
+  },
+  {
+    "id": 1040,
+    "name": "NoticeBard",
+    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/noticebard.png",
+    "categories": [
+      "Online Media Partner"
+    ],
+    "website": "https://www.noticebard.com/",
     "priority": 18
   }  
 ]
