@@ -849,15 +849,20 @@
 	  "id": 136,
 	  "name": "Feathers",
 	  "description": "\"Feathers\", is the annual creative writing event conducted during Effervescence.",
-	  "location": "CC3",
+	  "location": "Online",
 	  "timestamp": 2,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/feathers.jpg",
-	  "facebookEventLink": "",
+	  "facebookEventLink": "https://www.facebook.com/sarasva.litclub/",
 	  "additionalInfo": [],
 	  "categories": [
 		"literature"
 	  ],
-	  "organizers": []
+	  "organizers": [
+		  {
+		  "name": "Srishti Upadhyay",
+		  "phoneNumber" :9453033948
+		  }
+	  ]
 	},
 	{
 	  "id": 137,
@@ -865,8 +870,8 @@
 	  "description": "Congnoscentia is organised each year to put your grey cells into work. This mind numbing quizzing competition covers every genre, Literally, everything under the sun!",
 	  "location": "CC3",
 	  "timestamp": 1508065200,
-	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/cognoscentia.jpg",
-	  "facebookEventLink": "https://www.facebook.com/events/141002776519860/?ref=br_rs",
+	  "imageUrl": "https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-9/42730855_2188101164593150_4025136564039319552_o.jpg?_nc_cat=104&oh=3ad65df32d5da5f045c03d0c74c13522&oe=5C28AB18",
+	  "facebookEventLink": "https://www.facebook.com/sarasva.litclub/",
 	  "additionalInfo": [],
 	  "categories": [
 		"literature",
@@ -874,12 +879,16 @@
 	  ],
 	  "organizers": [
 		{
-		  "name": "Ravi Charan",
-		  "phoneNumber": 8187048426
+		  "name": "Pulkit Goel",
+		  "phoneNumber": 8920970945
 		},
 		{
-		  "name": "Akash Mishra",
-		  "phoneNumber": 9696427244
+		  "name": "Sahibdeep Singh",
+		  "phoneNumber": 8437300281
+		},
+		{
+		  "name": "Arpit Misraw",
+		  "phoneNumber": 8700784753
 		}
 	  ]
 	},
@@ -889,51 +898,46 @@
 	  "description": "Get geared up for the game of phrases represented in pantomime as we present to you, a cherished and allured pastime-it's all about dumb charades.",
 	  "location": "CC3",
 	  "timestamp": 1507982400,
-	  "imageUrl": "",
-	  "facebookEventLink": "",
+	  "imageUrl": "https://qph.fs.quoracdn.net/main-qimg-1a3a8e122ec6751827c92ee1603af34d-c",
+	  "facebookEventLink": "https://www.facebook.com/pg/sarasva.litclub/",
 	  "additionalInfo": [],
 	  "categories": [
 		"literature"
 	  ],
 	  "organizers": [
 		{
-		  "name": "Prafull Mishra",
-		  "phoneNumber": 9838224416
+		  "name": "Snigdha Dobhal",
+		  "phoneNumber": 9149377010
 		},
 		{
-		  "name": "Kartik Madaan",
-		  "phoneNumber": 9650289599
+		  "name": "Harsh Aryan",
+		  "phoneNumber": 7004618283		},
+		{
+		  "name": "Ekansh Bansal",
+		  "phoneNumber": 9149247968
 		}
 	  ]
 	},
 	{
 	  "id": 139,
-	  "name": "Crossroads",
-	  "description": "\"Crossroads\" brings with it, a platform to enhance your talking and debating skills.",
+	  "name": "Open Mic",
+	  "description": " Effervescence, IIIT Allahabad along with Sarasva, Literary Society, IIIT Allahabad brings to you - \"Open Mic\" , an elocution event. The stage will be yours, the mic will be yours, it'll be your task to make the audience yours as well. So savour the soup of literature served in an evening celebrating parwane poets and sayyane shayars who will join us in making this event one of the most mesmerising moments of Effe'18!",
 	  "location": "Cafeteria",
 	  "timestamp": 1507905000,
-	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/oneonone.jpg",
-	  "facebookEventLink": "",
+	  "imageUrl": "https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-9/42194944_1922490644455994_5333454606800257024_n.jpg?_nc_cat=111&oh=2ede7bca8962bb73b58d3462903dd0b6&oe=5C5EA4FC",
+	  "facebookEventLink": "https://www.facebook.com/events/250754525630471/",
 	  "additionalInfo": [],
 	  "categories": [
 		"literature"
 	  ],
 	  "organizers": [
 		{
-		  "name": "Bhanu Bhandari",
-		  "phoneNumber": 9958159280
+		  "name": "Aditi Agarwal",
+		  "phoneNumber": 7390963623
 		},
 		{
-		  "name": "Mantek Singh",
-		  "phoneNumber": 8008465118
-		},
-		{
-		  "name": "Niharika Gali",
-		  "phoneNumber": 9494479776
-		},
-		{
-		  "name": "Akash Mishra",
-		  "phoneNumber": 9696427244
+		  "name": "Prafull Mishra",
+		  "phoneNumber": 9838224416
 		}
 	  ]
 	},
@@ -944,12 +948,25 @@
 	  "location": "Online",
 	  "timestamp": 2,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/meme.jpg",
-	  "facebookEventLink": "",
+	  "facebookEventLink": "https://www.facebook.com/sarasva.litclub/",
 	  "additionalInfo": [],
 	  "categories": [
 		"literature"
 	  ],
-	  "organizers": []
+	  "organizers": [
+	  	{
+		  "name": "Harsh Aryan",
+		  "phoneNumber": 7004618283
+		},
+		{
+		  "name": "Siddhant Kumar",
+		  "phoneNumber": 8375041057
+		},
+		{
+		  "name": "Ambuj Agarwal",
+		  "phoneNumber": 7052193111
+		}
+	  ]
 	}, 
 	{
 		"id": 141,
