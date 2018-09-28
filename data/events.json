@@ -163,9 +163,9 @@
 	  "name": "Counter Strike Global Offensive",
 	  "description": "For the hardcore gamers, we bring to your service the game of the generation - Counter Strike. Happy Hunting!!",
 	  "location": "CC-3",
-	  "timestamp": 1507993200,
+	  "timestamp": 1538823600,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/csgo.png",
-	  "facebookEventLink": "https://www.facebook.com/events/723040291222111/",
+	  "facebookEventLink": "",
 	  "additionalInfo": [],
 	  "categories": [
 		"informal",
@@ -173,23 +173,27 @@
 	  ],
 	  "organizers": [
 		{
-		  "name": "Raghav Khandelwal",
-		  "phoneNumber": 9414038742
+		  "name": "Raghav",
+		  "phoneNumber": 9463893266
 		},
 		{
-		  "name": "Atul Sinha",
-		  "phoneNumber": 7061440715
+		  "name": "Heimal Shukla",
+		  "phoneNumber": 9450139238
+		},
+		{
+		  "name": "Tanay",
+		  "phoneNumber": 7447856401
 		}
 	  ]
 	},
 	{
 	  "id": 112,
-	  "name": "Fifa17",
+	  "name": "Fifa18",
 	  "description": "FIFA is an online football gaming event played with La Liga format where the winning teams will be decided according to a  knockout round. ",
 	  "location": "CC-3",
-	  "timestamp": 1507982400,
+	  "timestamp": 1538740800,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/fifa.png",
-	  "facebookEventLink": "https://www.facebook.com/events/172746143296872/",
+	  "facebookEventLink": "https://www.facebook.com/events/1205288096287207/",
 	  "additionalInfo": [],
 	  "categories": [
 		"informal",
@@ -197,22 +201,22 @@
 	  ],
 	  "organizers": [
 		{
-		  "name": "Rohit Kumar",
-		  "phoneNumber": 8174015678
+		  "name": "Shivansh Tiwari",
+		  "phoneNumber": 8989419500
 		},
 		{
-		  "name": "Madamshetty Rakshith",
-		  "phoneNumber": 7572029971
+		  "name": "Shashwat Shrivastava",
+		  "phoneNumber": 9928753327
 		}
 	  ]
 	},
 	{
 		"id": 113,
-		"name": "PUBG Mobile",
+		"name": "PUBG Mobile Squad",
 		"description": "This event consists of a competition of popular Android Game PUBG Mobile",
 		"location": "CC-3",
-		"timestamp": 1507914000,
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/android.png",
+		"timestamp": 1538740800,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/android.png",
 		"facebookEventLink": "https://www.facebook.com/events/1135270196637446/",
 		"additionalInfo": [],
 		"categories": [
@@ -265,7 +269,7 @@
 		"description": "Are you a binge watcher ? Thanks to the likes of Netflix and Amazon Prime, staying in and binge-watching the latest must-see show has become the new going out. But how much of the mountains of stuff you watched did you actually take in? Prove your netflix expertise and find out what a couch potato you really are.",
 		"location": "CC-3",
 		"timestamp": 1538737200,
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/tvquiz.png",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/tvquiz.png",
 		"facebookEventLink": "https://www.facebook.com/events/689598614739052/",
 		"additionalInfo": [],
 		"categories": [
@@ -281,10 +285,10 @@
 				"phoneNumber": 9425612433
 			},
 			{
-        "name": "Mehul Arora",
-         "phoneNumber": 9646295475
-      }
-		]
+        			"name": "Mehul Arora",
+         			"phoneNumber": 9646295475
+      			}
+			]
 	},
 	{
 	  "id": 117,
@@ -435,7 +439,6 @@
 		  "name": "Akash Mishra",
 		  "phoneNumber": 7007379886
 		},
-		{
 		  "name": "Rajaram Jat",
 		  "phoneNumber": 7570016074
 		},
@@ -842,7 +845,7 @@
 		"description": "Sketcher is an online sketching competition for all the art lovers out there. You just have to take a pencil or a pen or pencil colours and shape your imagination on the paper.",
 		"location": "Online",
 		"timestamp": 2,
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/sketcher.jpg",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/sketcher.jpg",
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
@@ -863,8 +866,8 @@
 		"name": "Face Painting",
 		"description": "Face painting is an event where one participant showcase his talent by painting the face of his teammate based on the theme given on the spot.",
 		"location": "Pavilion",
-		"timestamp": 1508076000,
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/facepainting.jpg",
+		"timestamp": 1538919000,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/facepainting.jpg",
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
@@ -888,9 +891,9 @@
 		"id": 143,
 		"name": "Graffiti",
 		"description": "Do you feel that that drawing sheet is too small to showcase your imagination? Graffiti is the best place for you in such a case!",
-		"location": "SAC and Pavilion",
-		"timestamp": 1507903200,
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/graffiti.jpg",
+		"location": "Pavilion",
+		"timestamp": 1538746200,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/graffiti.jpg",
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
@@ -915,8 +918,8 @@
 		"name": "Toon Coon",
 		"description": "Toon Coon is where you can make a cartoon based on the themes which will be provided to you on the spot.",
 		"location": "Pavilion",
-		"timestamp": 1508072400,
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/tooncon.jpg",
+		"timestamp": 1538820000,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/tooncon.jpg",
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
@@ -1060,9 +1063,9 @@
 	{
 	  "id": 151,
 	  "name": "EDM Night",
-	  "description": "The rage of today-128 BPM big room rage stuff from the likes of Tieso, Hardwell, Martin Garrix and so on. Performed under SunBurn by renowned artist such as AceAxe, SickLead and more in the past, guess what lies ahead!",
+	  "description": "ffervescence presents the star studded affair,the one with it’s own flavour and identity- the EDM Night.The night with international DJs playing beats which gets the ground flaming and thousands of people that gather,dancing the night away.The one that lets you groove to the some heart pumping music and experience a ride of fun ,delight and excitement.",
 	  "location": "Main Stage",
-	  "timestamp": 1507933800,
+	  "timestamp": 1538771400,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/edm.jpg",
 	  "facebookEventLink": "",
 	  "additionalInfo": [],
@@ -1075,9 +1078,9 @@
 	{
 	  "id": 152,
 	  "name": "Humour Night",
-	  "description": "Make your days less gloomy and your life a little happier. Come join us this autumn where we introduce the Humour Night.",
+	  "description": "Effervescence brings to you the Humour Night-The biggest Night of the carnival!The one that’ll let you forget your woes at least for one night and laugh your heart out for this is the chance to witness live some of the amazing comedians from around the country .The one which is known to bring some rib-tickling act that is sure to leave you wanting for more.",
 	  "location": "Main Audi",
-	  "timestamp": 1508004000,
+	  "timestamp": 1538841600,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/humournight.jpg",
 	  "facebookEventLink": "",
 	  "additionalInfo": [],
@@ -1092,23 +1095,8 @@
 	  "name": "Bollywood Night",
 	  "description": "Bollywood is a religion and the devotees are plenty. Get ready for whats in store this year as the legacy from Daler Mehandi, Sona Mahapatra, Neha Kakkar to Benny Dayal follows.",
 	  "location": "Main Stage",
-	  "timestamp": 1508104800,
-	  "imageUrl": "",
-	  "facebookEventLink": "",
-	  "additionalInfo": [],
-	  "categories": [
-		"main stage",
-		"pro shows"
-	  ],
-	  "organizers": []
-	},
-	{
-	  "id": 154,
-	  "name": "Rock Night",
-	  "description": "Young, energetic, full of surprises and utter madness on the stage, Lagori creates a sound that is rich, young, hip, honest and completely infectious! Get ready to rise to your feet, throw your hands up in the air and dance all night at Effervescence'17!",
-	  "location": "Main Stage",
-	  "timestamp": 1508022000,
-	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/lagori.jpg",
+	  "timestamp": 1538942400,
+	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/bollywood.jpeg",
 	  "facebookEventLink": "",
 	  "additionalInfo": [],
 	  "categories": [
@@ -1122,7 +1110,7 @@
 	  "name": "A'La Mode",
 	  "description": "High on the Fashion quotient and too Glam to give a Damn, the Fashionistas eccentricate the stage in all colours and outfits in the Fashion Show at Effervescence'17.",
 	  "location": "Main Stage",
-	  "timestamp": 1508009400,
+	  "timestamp": 1538854200,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/alamode.jpg",
 	  "facebookEventLink": "",
 	  "additionalInfo": [],
@@ -1137,7 +1125,7 @@
 	  "name": "Celebrity Night",
 	  "description": "Mark your calendars as the limelight of the Bollywood Music Industry is all set to ablaze the stage of IIIT Allahabad on 15th October. With Chartbusters such as Rock On! and Zindagi Na Milegi Dobara under his name, it’s going to be a night extraordinaire.",
 	  "location": "Main Stage",
-	  "timestamp": 1508095800,
+	  "timestamp": 1538940600,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/celebnight.jpg",
 	  "facebookEventLink": "",
 	  "additionalInfo": [],
@@ -1147,30 +1135,56 @@
 	  ],
 	  "organizers": []
 	},
- {
-		"id": 157,
-		"name": "T-shirt Painting",
-		"description": "T-shirt Painting is where you can make a your own art on tshirt  based on the themes which will be provided to you on the spot.",
-		"location": "Pavilion",
-		"timestamp": 1507903200,
-		"imageUrl": "",
-		"facebookEventLink": "",
-		"additionalInfo": [],
-		"categories": [
-			"fine arts"
-		],
-		"organizers": [{
-				"name": "Lovely Digra",
-				"phoneNumber": 7973036427
-			},
-			{
-				"name": "Sahil Goyal",
-				"phoneNumber": 8059353545 
-			},
-			{
-				"name": "Parth Raman",
-				"phoneNumber": 9521614125
-			}
+ 	{
+	"id": 157,
+	"name": "T-shirt Painting",
+	"description": "T-shirt Painting is where you can make a your own art on tshirt  based on the themes which will be provided to you on the spot.",
+	"location": "Pavilion",
+	"timestamp": 1538832600,
+	"imageUrl": "",
+	"facebookEventLink": "",
+	"additionalInfo": [],
+	"categories": [
+		"fine arts"
+	],
+	"organizers": [{
+			"name": "Lovely Digra",
+			"phoneNumber": 7973036427
+		},
+		{
+			"name": "Sahil Goyal",
+			"phoneNumber": 8059353545 
+		},
+		{
+			"name": "Parth Raman",
+			"phoneNumber": 9521614125
+		}
+	]
+	},
+	{
+	"id": 158,
+	"name": "PUBG Mobile Solo",
+	"description": "This event consists of a competition of popular Android Game  Mobile",
+	"location": "CC-3",
+	"timestamp": 1538827200,
+	"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/android.png",
+	"facebookEventLink": "https://www.facebook.com/events/1135270196637446/",
+	"additionalInfo": [],
+	"categories": [
+		"informal",
+		"gaming"
+	],
+	"organizers": [{
+			"name": "Taponidhi Tulsi",
+			"phoneNumber": 8076287598
+		},
+		{
+			"name": "Vijeta",
+			"phoneNumber": 7376369830
+		},
+		{	"name": "Aman Vats",
+			"phoneNumber": 8209478790
+		}
 		]
-	}
+	},
 ]

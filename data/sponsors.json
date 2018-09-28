@@ -1,6 +1,6 @@
 [
   {
-    "id": 1010,
+    "id": 1000,
     "name": "Fastrack",
     "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/fasttrack.jpeg",
     "categories": [
@@ -11,9 +11,9 @@
     "priority": 1
   },
   {
-    "id": 110,
+    "id": 1001,
     "name": "Bingo Comedy Adda",
-    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/Bingo.jpg",
+    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/Bingo.png",
     "categories": [
       "Humour Night Partner"
     ],
@@ -21,7 +21,7 @@
     "priority": 2
   },
   {  
-    "id":111,
+    "id":1002,
     "name":"FBB",
     "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/fbb.png",
     "categories":[  
@@ -32,18 +32,18 @@
     "priority":3
  },
  {  
-  "id":112,
+  "id":1003,
   "name":"Anwar",
   "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/Anwar.jpg",
   "categories":[  
      "Make Up and Styling Partner",
      "A'la Mode"
   ],
-  "website":"",
+  "website":"https://www.facebook.com/anwarsthepersonalitymaker/",
   "priority":3
 },
   {
-    "id": 1012,
+    "id": 1004,
     "name": "Madagascar",
     "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/madagascar.png",
     "categories": [
@@ -54,7 +54,7 @@
     "priority": 4
   },
   {
-    "id": 1013,
+    "id": 1005,
     "name": "Fashion Dreams",
     "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/fashion.png",
     "categories": [
@@ -65,7 +65,7 @@
     "priority": 4
   },
   {
-    "id": 113,
+    "id": 1006,
     "name": "The Verb Studio",
     "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/verb.png",
     "categories": [
@@ -78,16 +78,16 @@
   {
     "id": 1007,
     "name": "Wittyfeed",
-    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/wittyFeed.jpg",
+    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/wittyfeed.png",
     "categories": [
       "Official Outreach Partner",
-      "Event Partner Carpedium"
+      "Event Partner", "Carpedium"
     ],
     "website": "https://www.wittyfeed.tv/",
     "priority": 4
   },
   {
-    "id": 115,
+    "id": 1008,
     "name": "Nestle",
     "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/nestle.png",
     "categories": [
@@ -98,18 +98,18 @@
     "priority": 4
   },
   {
-    "id": 116,
+    "id": 1009,
     "name": "Withered Weedy Writers",
     "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/weedy.jpg",
     "categories": [
       "Event Partner",
       "Feathers"
     ],
-    "website": "",
+    "website": "https://www.facebook.com/witheredweedywriters/",
     "priority": 4
   },
   {
-    "id": 1014,
+    "id": 1010,
     "name": "Students Friends",
     "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/students.jpg",
     "categories": [
@@ -120,7 +120,7 @@
     "priority": 4
   },
   {
-    "id": 117,
+    "id": 1011,
     "name": "Your Quote",
     "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/yourquote.png",
     "categories": [
@@ -131,7 +131,7 @@
     "priority": 4
   },
   {
-    "id": 1015,
+    "id": 1012,
     "name": "Terribly Dank Tales",
     "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/dank.jpg",
     "categories": [
@@ -142,9 +142,9 @@
     "priority": 4
   },
   {
-    "id": 1014,
+    "id": 1013,
     "name": "Zebronics",
-    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/zebronics.png",
+    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/zebronics.jpg",
     "categories": [
       "Audio Partner"
     ],
@@ -152,9 +152,9 @@
     "priority": 5
   },
   {
-    "id": 1015,
-    "name": "Ganna",
-    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/gaana.jpeg",
+    "id": 1014,
+    "name": "Gaana",
+    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/gaana.png",
     "categories": [
       "Online Music Partner"
     ],
@@ -162,7 +162,7 @@
     "priority": 6
   },
   {
-    "id": 1013,
+    "id": 1015,
     "name": "Neon Gaming Studio",
     "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/neonGamingStudio.jpg",
     "categories": [
@@ -172,7 +172,7 @@
     "priority": 7
   },
   {
-    "id": 1011,
+    "id": 1016,
     "name": "Souled Store",
     "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/souledStore.png",
     "categories": [
@@ -182,7 +182,7 @@
     "priority": 8
   },
   {
-    "id": 1016,
+    "id": 1017,
     "name": "Patanjali Atta Noodles",
     "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/atta.png",
     "categories": [
@@ -192,7 +192,7 @@
     "priority": 8
   },
   {
-    "id": 120,
+    "id": 1018,
     "name": "Patanjali Divya Jal",
     "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/patanjali.jpeg",
     "categories": [
@@ -203,9 +203,9 @@
   },
   
   {
-		"id": 917,
+		"id": 1019,
 		"name": "Amul",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/amul.png",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/Amul.png",
 		"categories": [
 			"Dairy Product Partner"
 		],
@@ -213,9 +213,9 @@
 		"priority": 10
   },
   {
-		"id": 918,
+		"id": 1020,
 		"name": "Resonance Studios and Academy",
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/resonance.png",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/Resonance.jpg",
 		"categories": [
 			"Recording Partner"
 		],
@@ -223,7 +223,7 @@
 		"priority": 10
   },
   {
-    "id": 1009,
+    "id": 1021,
     "name": "Peta YOUTH",
     "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/peta.jpg",
     "categories": [
@@ -234,9 +234,9 @@
   },
 
   {  
-    "id":1514,
+    "id": 1022,
     "name":"Canara",
-    "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/canara-bank.png",
+    "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/canara.png",
     "categories":[  
        "Banking Partner"
     ],
@@ -244,7 +244,7 @@
     "priority":13
  },
  {  
-  "id":1511,
+  "id": 1023,
   "name":"HDFC",
   "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/hdfc.png",
   "categories":[  
@@ -254,7 +254,7 @@
   "priority":13
 },
 {  
-  "id":1513,
+  "id": 1024,
   "name":"PNB",
   "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/pnb.png",
   "categories":[  
@@ -264,7 +264,7 @@
   "priority":13
 },
 {  
-  "id":1510,
+  "id": 1025,
   "name":"IOB",
   "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/iob.png",
   "categories":[  
@@ -274,9 +274,9 @@
   "priority":13
 },
 {  
-  "id":1512,
+  "id": 1026,
   "name":"Bank of Baroda",
-  "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/bob.jpg",
+  "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/bob.png",
   "categories":[  
      "Banking Partner"
   ],
@@ -284,9 +284,9 @@
   "priority":13
 },
   {  
-    "id":1509,
+    "id":1027,
     "name":"SBI",
-    "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/sbi.jpg",
+    "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/sbi.png",
     "categories":[  
        "Banking Partner"
     ],
@@ -294,7 +294,7 @@
     "priority":13
  },
  {  
-  "id":124,
+  "id": 1028,
   "name":"Axis Bank",
   "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/axis.png",
   "categories":[  
@@ -304,9 +304,9 @@
   "priority":13
 },
 {  
-  "id":125,
+  "id": 1029,
   "name":"Indian Bank",
-  "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/indian.jpg",
+  "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/indian.png",
   "categories":[  
      "Banking Partner"
   ],
@@ -314,18 +314,18 @@
   "priority":13
 },
 {  
-  "id":130,
+  "id": 1030,
   "name":"Fever 94.3 FM",
   "imageUrl":"https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/fever.jpg",
   "categories":[  
      "Radio Partner"
   ],
-  "website":"",
+  "website":"https://www.facebook.com/feverAllahabadi/",
   "priority":14
 },
 
  {
-  "id": 1008,
+  "id": 1031,
   "name": "ZNetLive",
   "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/zentLive.png",
   "categories": [
@@ -335,9 +335,9 @@
   "priority": 15
 },
 {
-  "id": 1006,
+  "id": 1032,
   "name": "Blogadda",
-  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/bloagAdda.png",
+  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/BlogAdda.png",
   "categories": [
     "Blogger Outreach Partner"
   ],
@@ -345,17 +345,7 @@
   "priority": 16
 },
 {
-  "id": 1007,
-  "name": "WittyFeed",
-  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/bloagAdda.png",
-  "categories": [
-    "Official Outreach Partner"
-  ],
-  "website": "https://www.wittyfeed.tv/",
-  "priority": 16
-},
-{
-  "id": 1004,
+  "id": 1033,
   "name": "ED Times",
   "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/EDTimes.jpeg",
   "categories": [
@@ -365,7 +355,7 @@
   "priority": 17
 },
   {
-    "id": 1001,
+    "id": 1034,
     "name": "Festpav",
     "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/festPav.png",
     "categories": [
@@ -375,7 +365,7 @@
     "priority": 18
   },
   {
-    "id": 1002,
+    "id": 1035,
     "name": "Zoutons",
     "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/zoutons.png",
     "categories": [
@@ -385,7 +375,7 @@
     "priority": 18
   },
   {
-    "id": 1003,
+    "id": 1036,
     "name": "Collegedunia",
     "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/collegeDunia.jpg",
     "categories": [
@@ -394,9 +384,9 @@
     "website": "https://collegedunia.com/",
     "priority": 18
   },
- 
+
   {
-    "id": 1005,
+    "id": 1037,
     "name": "OhCampus",
     "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/ohCampus.jpeg",
     "categories": [
@@ -406,7 +396,7 @@
     "priority": 18
   },
   {
-    "id": 205,
+    "id": 1038,
     "name": "Youth Incorporated",
     "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/Youthincorporated.png",
     "categories": [
@@ -416,13 +406,23 @@
     "priority": 18
   },
   {
-    "id": 206,
+    "id": 1039,
     "name": "Lawctopus",
     "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/lawctopus.png",
     "categories": [
       "Online Media Partner"
     ],
     "website": "https://www.lawctopus.com/",
+    "priority": 18
+  },
+  {
+    "id": 1040,
+    "name": "NoticeBard",
+    "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/noticebard.png",
+    "categories": [
+      "Online Media Partner"
+    ],
+    "website": "https://www.noticebard.com/",
     "priority": 18
   }  
 ]
