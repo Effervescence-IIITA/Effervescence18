@@ -3,8 +3,8 @@
 	  "id": 101,
 	  "name": "Gully Cricket",
 	  "description": "Effervescence gave people a Blast from the Past- a chance to reminisce and relive your fond memories of the past. The window panes you would have broken and the scoldings you got from the neighbours for the same!!! The huge participation it brings is understandable as is quite relatable.\nThis event features separate contests for both girls and boys.",
-	  "location": "Tennis Court",
-	  "timestamp": 1538710200,
+	  "location": "Lawn Tennis Court",
+	  "timestamp": 1538816400,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/gully_cricket.jpg",
 	  "facebookEventLink": "https://www.facebook.com/events/2299253436770805/",
 	  "additionalInfo": [],
@@ -26,58 +26,13 @@
 		}
 	  ]
 	},
-	{
-	  "id": 102,
-	  "name": "Perplexus",
-	  "description": "Like the prizes of a treasure hunt but more content in avoiding the toil of loitering and trying to search for it and comfortable in front of your favourite screen? Here is one for the tech geeks! The satisfaction of claiming a treasure in the comfort of your couch!\nAn online treasure hunt competition for those who would like to keep it simple yet competitive! ",
-	  "location": "Online",
-	  "timestamp": 20,
-	  "imageUrl": "",
-	  "facebookEventLink": "",
-	  "additionalInfo": [],
-	  "categories": [
-		"informal"
-	  ],
-	  "organizers": [
-		{
-		  "name": "Abhishek D Nandan",
-		  "phoneNumber": 8603111470
-		},
-		{
-		  "name": "Vikash",
-		  "phoneNumber": 8102816247
-		}
-	  ]
-	},
-	{
-	  "id": 103,
-	  "name": "Stegolica",
-	  "description": "A delight for all the aspiring hackers and crackers, Stegolica is an online cryptography competition which has one of the most toughest competitors trying to prove themselves. Participate and bring out the Alan Turing inside out you.",
-	  "location": "Online",
-	  "timestamp": 20,
-	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/stegolica.jpg",
-	  "facebookEventLink": "https://www.facebook.com/events/120071321999931/",
-	  "additionalInfo": [],
-	  "categories": [
-		"informal"
-	  ],
-	  "organizers": [
-		{
-		  "name": "Aseem Shrey",
-		  "phoneNumber": 9455245705
-		},
-		{
-		  "name": "Abhishek Acharya",
-		  "phoneNumber": 8302503300
-		}
-	  ]
-	},
+
 	{
 	  "id": 104,
 	  "name": "Futsal",
 	  "description": "It takes a lot of effort to find twenty players and large spaces to enjoy a game of football. Ninety minutes, though, is even  more of a problem. Test your real life football skills and motor skill-mojo in this five-a-side, small area, short time version of football. It doesn’t get any better than this! Viva la futsal!",
 	  "location": "Lawn Tennis Court",
-	  "timestamp": 1538731800,
+	  "timestamp": 1538838000,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/futsal.png",
 	  "facebookEventLink": "https://www.facebook.com/events/328609754567393/",
 	  "additionalInfo": [],
@@ -104,7 +59,7 @@
 	  "name": "Blind Date",
 	  "description": "Many of us have a lover inside of us who has never dared to explode. Well , let the cupid strike your heart ,have a date to spend some time with and then well, who knows what can happen.",
 	  "location": "Cafeteria",
-	  "timestamp": 1538901000,
+	  "timestamp": 1538920800,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/blinddate.png",
 	  "facebookEventLink": "https://www.facebook.com/events/248534825864661/",
 	  "additionalInfo": [],
@@ -131,7 +86,7 @@
 	  "name": "Night on Boards",
 	  "description": "This is event is for all the board game nerds, held at night for your convenience. Effervescence never sleeps and better even, never stops playing. Sounds perfect, no?",
 	  "location": "SAC",
-	  "timestamp": 1538677800,
+	  "timestamp": 1538697540,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/nightonboard.png",
 	  "facebookEventLink": "https://www.facebook.com/events/241768719821713/",
 	  "additionalInfo": [],
@@ -156,9 +111,9 @@
 	{
 	  "id": 107,
 	  "name": "China Town",
-	  "description": "Effervescence'17  presents you China Town, an event filled with card games like Poker, Teen Patti and Darts. Come and witness your dream turn into reality.",
+	  "description": "Effervescence'18  presents you China Town, an event filled with card games like Poker, Teen Patti and Darts. Come and witness your dream turn into reality.",
 	  "location": "SAC",
-	  "timestamp": 1507939199,
+	  "timestamp": 1538870340,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/chinatown.png",
 	  "facebookEventLink": "",
 	  "additionalInfo": [],
@@ -167,85 +122,39 @@
 	  ],
 	  "organizers": [
 		{
-		  "name": "Aditya Goel",
-		  "phoneNumber": 9001791793
+			"name": "Abhishek Vishwakarma",
+			"phoneNumber": 9560675107
 		},
 		{
-		  "name": "Varun Singh",
-		  "phoneNumber": 9491618521
+			"name": "Aditya Raj",
+			"phoneNumber": 9110969203
+		},
+		{
+			"name": "Krish Bhatiya",
+			"phoneNumber": 9079662280
 		}
-	  ]
+		]
 	},
 	{
 	  "id": 108,
-	  "name": "Tug-of-War",
+	  "name": "Tug of War",
 	  "description": "Effervescence'17 present to you the \"Tug-of-War\" that tests your strength and character. ",
 	  "location": "Cafeteria",
-	  "timestamp": 1507906800,
+	  "timestamp": 1538749800,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/tugofwar.png",
-	  "facebookEventLink": "https://www.facebook.com/events/132375700730508/",
+	  "facebookEventLink": "",
 	  "additionalInfo": [],
 	  "categories": [
 		"informal"
 	  ],
 	  "organizers": [
 		{
-		  "name": "Aswin",
-		  "phoneNumber": 8281637530
+		  "name": "Anmol Chugh",
+		  "phoneNumber": 8058281594
 		},
 		{
-		  "name": "Aswanth",
-		  "phoneNumber": 8281358507
-		},
-		{
-		  "name": "Druval CR",
-		  "phoneNumber": 9496814630
-		}
-	  ]
-	},
-	{
-	  "id": 109,
-	  "name": "Just A Minute",
-	  "description": "Amazing hand-eye coordination, sharp and fast thinking, and a zest to win are prerequisites for this reboot of A Minute to Win It.",
-	  "location": "CC3",
-	  "timestamp": 1508068800,
-	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/justamin.png",
-	  "facebookEventLink": "https://www.facebook.com/events/1659597200946105/",
-	  "additionalInfo": [],
-	  "categories": [
-		"informal"
-	  ],
-	  "organizers": [
-		{
-		  "name": "Pradeep Kumar",
-		  "phoneNumber": 8938922705
-		},
-		{
-		  "name": "Vijay Kumar Giri",
-		  "phoneNumber": 9453834673
-		}
-	  ]
-	},
-	{
-	  "id": 110,
-	  "name": "AdMania",
-	  "description": "Ever saw an advertisement and thought you could do sometime a lot better? Well here is your chance. ",
-	  "location": "CC3",
-	  "timestamp": 1507890600,
-	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/admania.png",
-	  "facebookEventLink": "https://www.facebook.com/events/116506349066680/",
-	  "additionalInfo": [],
-	  "categories": [
-		"informal"
-	  ],
-	  "organizers": [
-		{
-		  "name": "Sanika Surse",
-		  "phoneNumber": 7380844608
-		},
-		{
-		  "name": "Nikhil Kori",
-		  "phoneNumber": 8130020527
+		  "name": "Prakash Das",
+		  "phoneNumber": 7002328186
 		}
 	  ]
 	},
@@ -328,21 +237,25 @@
 	  "name": "Paanipuri Junction",
 	  "description": "Panipuri Junction gives you an opportunity to show your love for the food with the simplest of competitions. Eat as many golgappas as you want in a minute and may be win something out of it.",
 	  "location": "Old Canteen",
-	  "timestamp": 1508079600,
+	  "timestamp": 1538929800,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/paanipuri.png",
-	  "facebookEventLink": "https://www.facebook.com/events/1856143044678516/",
+	  "facebookEventLink": "https://www.facebook.com/events/281691339334027/",
 	  "additionalInfo": [],
 	  "categories": [
 		"informal"
 	  ],
 	  "organizers": [
 		{
-		  "name": "Aanandita Dhawan",
-		  "phoneNumber": 8957065531
+		  "name": "Ritika Arya",
+		  "phoneNumber": 7018901877
 		},
 		{
-		  "name": "Apoorv Mahajan",
-		  "phoneNumber": 8979776337
+		  "name": "Kartikey Raj Tiwari",
+		  "phoneNumber": 9170862113
+		},
+		{
+		  "name": "Sanjay kumar meena",
+		  "phoneNumber": 9636830098
 		}
 	  ]
 	},
@@ -374,37 +287,13 @@
 		]
 	},
 	{
-	  "id": 116,
-	  "name": "Cricket Quiz",
-	  "description": "Who was the first person to score 300 runs in a test match? If you've got the answers, we've got the competition and some really tough questions coming your way in this three-round quiz.",
-	  "location": "CC-3",
-	  "timestamp": 1507892400,
-	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/cricket.png",
-	  "facebookEventLink": "https://www.facebook.com/events/265004644008088/",
-	  "additionalInfo": [],
-	  "categories": [
-		"informal",
-		"quiz"
-	  ],
-	  "organizers": [
-		{
-		  "name": "Piyush Gurnule",
-		  "phoneNumber": 7276575280
-		},
-		{
-		  "name": "Utsav Nareti",
-		  "phoneNumber": 8085402177
-		}
-	  ]
-	},
-	{
 	  "id": 117,
 	  "name": "Animania",
 	  "description": "Think you're the biggest anime freak out there? Come , participate and meet your kind(of people).",
 	  "location": "CC-3",
-	  "timestamp": 1507978800,
+	  "timestamp": 1538823600,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/animequiz.png",
-	  "facebookEventLink": "https://www.facebook.com/events/419536885125796/",
+	  "facebookEventLink": "https://www.facebook.com/events/710261072658979/",
 	  "additionalInfo": [],
 	  "categories": [
 		"informal",
@@ -412,12 +301,16 @@
 	  ],
 	  "organizers": [
 		{
-		  "name": "Parth Agarwal",
-		  "phoneNumber": 9557646688
+		  "name": "Anant Rai",
+		  "phoneNumber": 8587802903
 		},
 		{
-		  "name": "Harshit Jain",
-		  "phoneNumber": 8527116329
+		  "name": "Rahul Jha",
+		  "phoneNumber": 9082374303
+		},
+		{
+			"name": "Aditya Bahukhandi",
+		  "phoneNumber": 9690729286
 		}
 	  ]
 	},
@@ -425,26 +318,26 @@
 	  "id": 118,
 	  "name": "Roadies",
 	  "description": "If you've got the brains and the brawn, look no further for the ultimate test of your physical and mental strength. This is no mere reboot of the T.V. series.",
-	  "location": "CC-3 and Rann bhoomi",
-	  "timestamp": 1507975200,
+	  "location": "CC-3",
+	  "timestamp": 1538737200,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/roadies.png",
-	  "facebookEventLink": "https://www.facebook.com/events/738792496313126",
+	  "facebookEventLink": "https://www.facebook.com/events/1335370726594100/",
 	  "additionalInfo": [],
 	  "categories": [
 		"informal"
 	  ],
 	  "organizers": [
 		{
-		  "name": "Shreyansh Chaudhary",
-		  "phoneNumber": 9559155755
+		  "name": "Rohan Shekhawat",
+		  "phoneNumber": 7905532402
 		},
 		{
-		  "name": "Suryansh Tiwari",
-		  "phoneNumber": 7839305526
+		  "name": "Nayan Agarwal",
+		  "phoneNumber": 8960952960
 		},
 		{
-		  "name": "Mohammed Harris",
-		  "phoneNumber": 7081878650
+		  "name": "Rohit Ranjan",
+		  "phoneNumber": 8009561983
 		}
 	  ]
 	},
@@ -452,22 +345,26 @@
 	  "id": 119,
 	  "name": "Photobooth",
 	  "description": "If you are obsessed with getting yourself clicked, then we present the Photo Booth for you where you can have your pictures taken with props and all the dreamworks of a carnival presented just for you! Enter Pose and Click!",
-	  "location": "Gymkhana Grounds",
-	  "timestamp": 1507939200,
+	  "location": "Main Ground",
+	  "timestamp": 100,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/photobooth.png",
-	  "facebookEventLink": "",
+	  "facebookEventLink": "https://www.facebook.com/events/240179486651136/",
 	  "additionalInfo": [],
 	  "categories": [
 		"informal"
 	  ],
 	  "organizers": [
 		{
-		  "name": "Ankit jain",
-		  "phoneNumber": 7597604467
+		  "name": "Ashray Sinha",
+		  "phoneNumber": 9973655636
 		},
 		{
-		  "name": "Nikhil Mundra",
-		  "phoneNumber": 9919799191
+		  "name": "Deepak Purti",
+		  "phoneNumber": 8210214131
+		},
+		{
+		  "name": "Vaishali Rana",
+		  "phoneNumber": 7351579004
 		}
 	  ]
 	},
@@ -475,22 +372,22 @@
 	  "id": 120,
 	  "name": "Arm Wrestling",
 	  "description": "Come show where the hours you put into the gym and the push-ups and chin-ups you do have taken you in the competition where the strongest prevails!!",
-	  "location": "SAC/OC",
-	  "timestamp": 1507995000,
+	  "location": "SAC",
+	  "timestamp": 1538922600,
 	  "imageUrl": "",
-	  "facebookEventLink": "https://www.facebook.com/events/132469360716340/",
+	  "facebookEventLink": "https://www.facebook.com/events/2033360810047291/",
 	  "additionalInfo": [],
 	  "categories": [
 		"informal"
 	  ],
 	  "organizers": [
 		{
-		  "name": "Akshay Kumar",
-		  "phoneNumber": 8002430834
+		  "name": "Naman Bahl",
+		  "phoneNumber": 8400440961
 		},
 		{
-		  "name": "Rishabh Agnihotri",
-		  "phoneNumber": 8188940829
+		  "name": "Madhav Gupta",
+		  "phoneNumber": 8756507338
 		}
 	  ]
 	},
@@ -499,21 +396,25 @@
 	  "name": "Basketball",
 	  "description": "An informal basketball sporting event with custom rules made for you!!",
 	  "location": "Basketball court",
-	  "timestamp": 1508079600,
+	  "timestamp": 1538758800,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/basketball.png",
-	  "facebookEventLink": "https://www.facebook.com/events/223944314803947/",
+	  "facebookEventLink": "https://www.facebook.com/events/601600870242536/",
 	  "additionalInfo": [],
 	  "categories": [
 		"informal"
 	  ],
 	  "organizers": [
 		{
-		  "name": "Nishant Malik",
-		  "phoneNumber": 7252920582
+		  "name": "Muskan",
+		  "phoneNumber": 7206893827
 		},
 		{
-		  "name": "Sudhanshu Shakya",
-		  "phoneNumber": 8439357480
+		  "name": "Sangeeta",
+		  "phoneNumber": 6377581077
+		},
+		{
+		  "name": "Divanshu",
+		  "phoneNumber": 9123160288
 		}
 	  ]
 	},
@@ -521,54 +422,26 @@
 	  "id": 122,
 	  "name": "Treasure Hunt",
 	  "description": "\"The treasure awaits you only if you search for it.\"The Treasure Hunt ensures that you enjoy running around the college in search of clues. Wherever the clues will be you will search them, find them and open the way to the final treasure.",
-	  "location": "Campus",
-	  "timestamp": 1507842000,
+	  "location": "CC-3",
+	  "timestamp": 1538686800,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/treasurehunt.png",
-	  "facebookEventLink": "https://www.facebook.com/events/508297726200546/",
+	  "facebookEventLink": "https://www.facebook.com/events/2136709389875540/",
 	  "additionalInfo": [],
 	  "categories": [
 		"informal"
 	  ],
 	  "organizers": [
 		{
-		  "name": "Swapnesh Narayan",
-		  "phoneNumber": 9839775664
+		  "name": "Akash Mishra",
+		  "phoneNumber": 7007379886
 		},
 		{
-		  "name": "Yash Gupta",
-		  "phoneNumber": 7976794486
+		  "name": "Rajaram Jat",
+		  "phoneNumber": 7570016074
 		},
 		{
-		  "name": "Prabhat Singh",
-		  "phoneNumber": 9956044639
-		},
-		{
-		  "name": "Abhishek D Nandan",
-		  "phoneNumber": 8603111470
-		}
-	  ]
-	},
-	{
-	  "id": 123,
-	  "name": "Dota 2",
-	  "description": "Best of three  5 vs 5 games - captians mode",
-	  "location": "CC3",
-	  "timestamp": 1507905000,
-	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/dota.png",
-	  "facebookEventLink": "https://www.facebook.com/events/2028223137463926/",
-	  "additionalInfo": [],
-	  "categories": [
-		"informal",
-		"gaming"
-	  ],
-	  "organizers": [
-		{
-		  "name": "Srikar kvs",
-		  "phoneNumber": 7237857583
-		},
-		{
-		  "name": "Arpit Lohia",
-		  "phoneNumber": 9404135374
+		  "name": "Vaibhav Srivastava",
+		  "phoneNumber": 9721747909
 		}
 	  ]
 	},
