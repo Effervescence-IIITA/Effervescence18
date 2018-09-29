@@ -1218,20 +1218,5 @@
 			],
 			"organizers": [
 				]
-			},
-			{
-				"id": 202,
-				"name": "AdMania",
-				"description": "Ever saw an advertisement and thought you could do sometime a lot better? Well here is your chance. Come, give it a try , show of your creative skills and may be walk out with some grand prizes.",
-				"location": "Main Stage",
-				"timestamp": 1538922600,
-				"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/armwrestling.png",
-				"facebookEventLink": "https://www.facebook.com/events/2033360810047291/",
-				"additionalInfo": [],
-				"categories": [
-					"informal"
-				],
-				"organizers": [
-					]
-				}
+		}
 ]
