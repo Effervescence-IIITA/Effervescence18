@@ -626,113 +626,119 @@
 		}
 	  ]
 	},
-	{
-	  "id": 132,
-	  "name": "Antakshari",
-	  "description": "As soon as you read the word Antakshari, you grew nostalgic ,didn't you? This event holds an appeal for all be it the old school melody lovers or the modern pop culture enthusiasts.",
-	  "location": "CC3",
-	  "timestamp": 1507899600,
-	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/antakshari.jpg",
-	  "facebookEventLink": "https://www.facebook.com/events/492660841113544/",
-	  "additionalInfo": [],
-	  "categories": [
-		"music"
-	  ],
-	  "organizers": [
-		{
-		  "name": "Niharika Shrivastava",
-		  "phoneNumber": 9869338372
-		},
-		{
-		  "name": "Gauri Kesarwani",
-		  "phoneNumber": 8303220294
-		},
-		{
-		  "name": "Anagh Rao",
-		  "phoneNumber": 7396500000
-		}
-	  ]
+ 	{
+	 	 "id": 132,
+	  	"name": "Antakshari",
+	  	"description": "As soon as you read the word Antakshari, you grew nostalgic ,didn't you? This event holds an appeal for all be it the old school melody lovers or the modern pop culture enthusiasts.",
+	  	"location": "CC3",
+	 	 "timestamp": 1538830800,
+	 	 "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/antakshari.jpg",
+	  	"facebookEventLink": "",
+	  	"additionalInfo": [],
+	  	"categories": [
+			"music"
+	  	],
+	  	"organizers": [
+			{
+			  "name": "Sneha",
+			  "phoneNumber": 9619125180
+			},
+			{
+			  "name": "Ayush",
+			  "phoneNumber": 9565607077
+			},
+			{
+			  "name": "Meher",
+			  "phoneNumber": 9565605657
+			},
+			{
+			  "name": "Vinamer",
+			  "phoneNumber": 8872037391
+			}
+		  ]
 	},
 	{
-	  "id": 133,
-	  "name": "Unplugged",
-	  "description": "Introducing Unplugged,the official acoustic event organised during Effervescence. We invite you to this musical event where you can perform acoustic renditions of your favourite songs and win attractive prizes.",
-	  "location": "Main Audi",
-	  "timestamp": 1508076000,
-	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/unplugged.jpg",
-	  "facebookEventLink": "https://www.facebook.com/events/386737538411192/",
-	  "additionalInfo": [],
-	  "categories": [
-		"music"
-	  ],
-	  "organizers": [
-		{
-		  "name": "Arpit Bahety",
-		  "phoneNumber": 99924484847
-		},
-		{
-		  "name": "Rahul Gyawali",
-		  "phoneNumber": 7755834908
-		},
-		{
-		  "name": "Harshit Srivastava",
-		  "phoneNumber": 7081934678
-		}
-	  ]
+		"id": 133,
+		"name": "Unplugged",
+		"description": "Introducing Unplugged,the official acoustic event organised during Effervescence. We invite you to this musical event where you can perform acoustic renditions of your favourite songs and win attractive prizes.",
+		"location": "Main Audi",
+		"timestamp": 1538913600,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/unplugged.jpg",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"music"
+		],
+		"organizers": [{
+				"name": "Ashutosh Khandelwal",
+				"phoneNumber": 9058368138
+			},
+			{
+				"name": "Harshit Jain",
+				"phoneNumber": 8527116329
+			},
+			{
+				"name": "Nishant",
+				"phoneNumber": 8375996934
+			}
+		]
 	},
 	{
-	  "id": 134,
-	  "name": "Psychedelia",
-	  "description": "Psychedellia is the mainstage non-competitive event for Musical Bands, with no judges. Being a mainstage event of Effervescence, it presents you with an opportunity that will always be a win win situation.",
-	  "location": "Main Stage",
-	  "timestamp": 1508000400,
-	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/psychedellia.jpg",
-	  "facebookEventLink": "",
-	  "additionalInfo": [],
-	  "categories": [
-		"music"
-	  ],
-	  "organizers": [
-		{
-		  "name": "Vivek Tiwari",
-		  "phoneNumber": 9540488830
-		},
-		{
-		  "name": "Siddharth Vats",
-		  "phoneNumber": 9997987345
-		},
-		{
-		  "name": "Kajol",
-		  "phoneNumber": 9455293908
-		}
-	  ]
+		"id": 134,
+		"name": "Psychedelia",
+		"description": "Psychedellia is the mainstage non-competitive event for Musical Bands, with no judges. Being a mainstage event of Effervescence, it presents you with an opportunity that will always be a win win situation.",
+		"location": "Main Stage",
+		"timestamp": 1538757000,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/psychedellia.jpg",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"music"
+		],
+		"organizers": [{
+				"name": "Sominee Gupta",
+				"phoneNumber": 7983129771
+			},
+			{
+				"name": "Harshit Srivastava",
+				"phoneNumber": 7081934678
+			},
+			{
+				"name": "Ashish Bhardwaj",
+				"phoneNumber": 9076734480
+			}
+		]
 	},
 	{
-	  "id": 135,
-	  "name": "Melodeiux",
-	  "description": "Melodieux is a competitive music event organised for just singers. May the one with the best voice win!",
-	  "location": "Main Audi",
-	  "timestamp": 1508068800,
-	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/melodeiux.jpg",
-	  "facebookEventLink": "https://www.facebook.com/profile.php?id=300500913761591&ref=br_rs",
-	  "additionalInfo": [],
-	  "categories": [
-		"music"
-	  ],
-	  "organizers": [
-		{
-		  "name": "Niharika Shrivastava",
-		  "phoneNumber": 9869338372
-		},
-		{
-		  "name": "Sominee Gupta",
-		  "phoneNumber": 7376410225
-		},
-		{
-		  "name": "Aashutosh Khandelwal",
-		  "phoneNumber": 9088368138
-		}
-	  ]
+		"id": 135,
+		"name": "Melodeiux",
+		"description": "Melodieux is a competitive music event organised for just singers. May the one with the best voice win!",
+		"location": "Main Audi",
+		"timestamp": 1538910000,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/melodeiux.jpg",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"music"
+		],
+		"organizers": [{
+				"name": "Niharika Shrivastava",
+				"phoneNumber": 9869338372
+			},
+			{
+				"name": "Gauri Kesarwani",
+				"phoneNumber": 7522063855
+			},
+			{
+				"name": "Kaustubh",
+				"phoneNumber": 9140809720
+			},
+			       
+		       {
+			       "name": "Piysuh",
+			       "phoneNumber": 7380844050
+		       }
+		]
 	},
 	{
 	  "id": 136,
@@ -1047,19 +1053,32 @@
 	  ]
 	},
 	{
-	  "id": 150,
-	  "name": "Incendiary",
-	  "description": "College Bands battling for recognition and the thrill to perform in front of a live audience. Great competition, Greater effort.",
-	  "location": "Main Stage",
-	  "timestamp": 1507917600,
-	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/incendiary.jpg",
-	  "facebookEventLink": "",
-	  "additionalInfo": [],
-	  "categories": [
-		"main stage",
-		"music"
-	  ],
-	  "organizers": []
+		"id": 150,
+		"name": "Incendiary",
+		"description": "College Bands battling for recognition and the thrill to perform in front of a live audience. Great competition, Greater effort.",
+		"location": "Main Stage",
+		"timestamp": 1538762400,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/incendiary.jpg",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"main stage",
+			"music"
+		],
+		"organizers": [
+			{
+				"name": "Anagh Rao",
+				"phoneNumber": 7396500000
+			},
+			{
+				"name": "Harshit Jain",
+				"phoneNumber": 8527116329
+			},
+			{
+				"name": "Ashutosh Khandelwal",
+				"phoneNumber": 9058368138
+			}
+		]
 	},
 	{
 	  "id": 151,
@@ -1218,5 +1237,33 @@
 			],
 			"organizers": [
 				]
+		},
+		{
+			"id": 202,
+			"name": "Pictionary",
+			"description": "Pictionary is one of most fun events of Effervescence'18.Originally a board game, it’s a common classic that everyone enjoys. Players take turns silently drawing different things while their team tries to guess what the drawing is. Teams compete against each other to have the most guessed words and win the game.",
+			"location": "CC-3",
+			"timestamp": 1538834400,
+			"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/pictionary.jpg",
+			"facebookEventLink": "https://www.facebook.com/events/384957185375001/",
+			"additionalInfo": [],
+			"categories": [
+				"informal"
+			],
+			"organizers": [
+				{
+					"name": "Sumeet Singh"
+					"phoneNumber": 9779427182
+				},
+				{
+					"name": "Sahibdeep Singh"
+					"phoneNumber": 8437300281
+				},
+				{
+					"name": "Vinamer Vansil"
+					"phoneNumber": 8872037391
+				}
+				]
 		}
+	
 ]
