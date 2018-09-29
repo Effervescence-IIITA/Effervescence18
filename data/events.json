@@ -192,7 +192,7 @@
 	  "description": "FIFA is an online football gaming event played with La Liga format where the winning teams will be decided according to a  knockout round. ",
 	  "location": "CC-3",
 	  "timestamp": 1538740800,
-	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/fifa.png",
+	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/fifa.jpg",
 	  "facebookEventLink": "https://www.facebook.com/events/1205288096287207/",
 	  "additionalInfo": [],
 	  "categories": [
@@ -296,7 +296,7 @@
 	  "description": "Think you're the biggest anime freak out there? Come , participate and meet your kind(of people).",
 	  "location": "CC-3",
 	  "timestamp": 1538823600,
-	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/animequiz.png",
+	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/animania.jpg",
 	  "facebookEventLink": "https://www.facebook.com/events/710261072658979/",
 	  "additionalInfo": [],
 	  "categories": [
@@ -378,7 +378,7 @@
 	  "description": "Come show where the hours you put into the gym and the push-ups and chin-ups you do have taken you in the competition where the strongest prevails!!",
 	  "location": "SAC",
 	  "timestamp": 1538922600,
-	  "imageUrl": "",
+	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/armwrestling.png",
 	  "facebookEventLink": "https://www.facebook.com/events/2033360810047291/",
 	  "additionalInfo": [],
 	  "categories": [
@@ -868,7 +868,7 @@
 		"description": "Face painting is an event where one participant showcase his talent by painting the face of his teammate based on the theme given on the spot.",
 		"location": "Pavilion",
 		"timestamp": 1538919000,
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/facepainting.jpg",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/facepaint.jpeg",
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
@@ -1142,7 +1142,7 @@
 	"description": "T-shirt Painting is where you can make a your own art on tshirt  based on the themes which will be provided to you on the spot.",
 	"location": "Pavilion",
 	"timestamp": 1538832600,
-	"imageUrl": "",
+	"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/tshirtpaint.jpg",
 	"facebookEventLink": "",
 	"additionalInfo": [],
 	"categories": [
@@ -1187,5 +1187,51 @@
 			"phoneNumber": 8209478790
 		}
 		]
-	}
+	},
+	{
+		"id": 200,
+		"name": "Just a Minute",
+		"description": "Amazing hand-eye coordination, sharp and fast thinking, and a zest to win are prerequisites for this reboot of A Minute to Win It. No time to ponder and no time to panic. Juggle, run, sing, speak, dance, jump. The condition is, you’ve merely got a minute to win it!",
+		"location": "Main Stage",
+		"timestamp": 1538940600,
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/justaminute.png",
+		"facebookEventLink": "",
+		"additionalInfo": [],
+		"categories": [
+			"informal",
+			"gaming"
+		],
+		"organizers": [
+			]
+		},
+		{
+			"id": 201,
+			"name": "AdMania",
+			"description": "Ever saw an advertisement and thought you could do sometime a lot better? Well here is your chance. Come, give it a try , show of your creative skills and may be walk out with some grand prizes.",
+			"location": "Main Stage",
+			"timestamp": 1538940600,
+			"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/admania.jpg",
+			"facebookEventLink": "",
+			"additionalInfo": [],
+			"categories": [
+				"informal"
+			],
+			"organizers": [
+				]
+			},
+			{
+				"id": 202,
+				"name": "AdMania",
+				"description": "Ever saw an advertisement and thought you could do sometime a lot better? Well here is your chance. Come, give it a try , show of your creative skills and may be walk out with some grand prizes.",
+				"location": "Main Stage",
+				"timestamp": 1538922600,
+				"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/armwrestling.png",
+				"facebookEventLink": "https://www.facebook.com/events/2033360810047291/",
+				"additionalInfo": [],
+				"categories": [
+					"informal"
+				],
+				"organizers": [
+					]
+				}
 ]
