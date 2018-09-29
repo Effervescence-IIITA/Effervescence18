@@ -752,30 +752,35 @@
 	  "categories": [
 		"literature"
 	  ],
-	  "organizers": []
+	  "organizers": [
+			{
+				"name": "Srishti Upadhyay",
+				"phoneNumber" :9453033948
+				}
+		]
 	},
 	{
 	  "id": 137,
 	  "name": "Cognoscentia",
 	  "description": "Congnoscentia is organised each year to put your grey cells into work. This mind numbing quizzing competition covers every genre, Literally, everything under the sun!",
-	  "location": "CC3",
-	  "timestamp": 1508065200,
+	  "location": "Audi",
+	  "timestamp": 1538758800,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/cognoscentia.jpg",
-	  "facebookEventLink": "https://www.facebook.com/events/141002776519860/?ref=br_rs",
+	  "facebookEventLink": "",
 	  "additionalInfo": [],
 	  "categories": [
 		"literature",
 		"quiz"
 	  ],
 	  "organizers": [
-		{
-		  "name": "Ravi Charan",
-		  "phoneNumber": 8187048426
-		},
-		{
-		  "name": "Akash Mishra",
-		  "phoneNumber": 9696427244
-		}
+			{
+				"name": "Pulkit Goel",
+				"phoneNumber": 8920970945
+			},
+			{
+				"name": "Arpit Misraw",
+				"phoneNumber": 8700783753
+			}
 	  ]
 	},
 	{
@@ -783,52 +788,47 @@
 	  "name": "Dumb Charades",
 	  "description": "Get geared up for the game of phrases represented in pantomime as we present to you, a cherished and allured pastime-it's all about dumb charades.",
 	  "location": "CC3",
-	  "timestamp": 1507982400,
-	  "imageUrl": "",
+	  "timestamp": 1538838000,
+	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/dumb.jpeg",
 	  "facebookEventLink": "",
 	  "additionalInfo": [],
 	  "categories": [
 		"literature"
 	  ],
 	  "organizers": [
-		{
-		  "name": "Prafull Mishra",
-		  "phoneNumber": 9838224416
-		},
-		{
-		  "name": "Kartik Madaan",
-		  "phoneNumber": 9650289599
-		}
+			{
+				"name": "Snigdha Dobhal",
+				"phoneNumber": 9149377010
+			},
+			{
+				"name": "Harsh Aryan",
+				"phoneNumber": 7004618283		},
+			{
+				"name": "Ekansh Bansal",
+				"phoneNumber": 9149247968
+			}
 	  ]
 	},
 	{
 	  "id": 139,
-	  "name": "Crossroads",
-	  "description": "\"Crossroads\" brings with it, a platform to enhance your talking and debating skills.",
+	  "name": "Open Mic",
+	  "description": " Effervescence, IIIT Allahabad along with Sarasva, Literary Society, IIIT Allahabad brings to you - \"Open Mic\" , an elocution event. The stage will be yours, the mic will be yours, it'll be your task to make the audience yours as well. So savour the soup of literature served in an evening celebrating parwane poets and sayyane shayars who will join us in making this event one of the most mesmerising moments of Effe'18!",
 	  "location": "Cafeteria",
-	  "timestamp": 1507905000,
-	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/oneonone.jpg",
-	  "facebookEventLink": "",
+		"timestamp": 1538924400,
+	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/open.png",
+	  "facebookEventLink": "https://www.facebook.com/events/250754525630471/",
 	  "additionalInfo": [],
 	  "categories": [
 		"literature"
 	  ],
 	  "organizers": [
 		{
-		  "name": "Bhanu Bhandari",
-		  "phoneNumber": 9958159280
+		  "name": "Aditi Agarwal",
+		  "phoneNumber": 7390963623
 		},
 		{
-		  "name": "Mantek Singh",
-		  "phoneNumber": 8008465118
-		},
-		{
-		  "name": "Niharika Gali",
-		  "phoneNumber": 9494479776
-		},
-		{
-		  "name": "Akash Mishra",
-		  "phoneNumber": 9696427244
+		  "name": "Prafull Mishra",
+		  "phoneNumber": 9838224416
 		}
 	  ]
 	},
@@ -844,7 +844,21 @@
 	  "categories": [
 		"literature"
 	  ],
-	  "organizers": []
+	  "organizers": [
+			{
+				"name": "Harsh Aryan",
+				"phoneNumber": 7004618283
+			},
+			{
+				"name": "Siddhant Kumar",
+				"phoneNumber": 8375041057
+			},
+			{
+				"name": "Ambuj Agarwal",
+				"phoneNumber": 7052193111
+			}
+	
+		]
 	}, 
 	{
 		"id": 141,
