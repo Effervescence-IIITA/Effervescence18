@@ -138,7 +138,7 @@
 	{
 	  "id": 108,
 	  "name": "Tug of War",
-	  "description": "Effervescence'17 present to you the \"Tug-of-War\" that tests your strength and character. ",
+	  "description": "Effervescence'18 present to you the \"Tug-of-War\" that tests your strength and character. ",
 	  "location": "Cafeteria",
 	  "timestamp": 1538749800,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/tugofwar.png",
@@ -188,8 +188,8 @@
 	},
 	{
 	  "id": 112,
-	  "name": "Fifa18",
-	  "description": "FIFA is an online football gaming event played with La Liga format where the winning teams will be decided according to a  knockout round. ",
+	  "name": "FIFA'18",
+	  "description": "FIFA is an online football gaming event played with La Liga format where the winning teams will be decided according to a knockout round. ",
 	  "location": "CC-3",
 	  "timestamp": 1538740800,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/fifa.jpg",
@@ -285,9 +285,9 @@
 				"phoneNumber": 9425612433
 			},
 			{
-        			"name": "Mehul Arora",
-         			"phoneNumber": 9646295475
-      			}
+        "name": "Mehul Arora",
+				"phoneNumber": 9646295475
+			}
 			]
 	},
 	{
@@ -663,7 +663,7 @@
 		"description": "Introducing Unplugged,the official acoustic event organised during Effervescence. We invite you to this musical event where you can perform acoustic renditions of your favourite songs and win attractive prizes.",
 		"location": "Main Audi",
 		"timestamp": 1538913600,
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/unplugged.jpg",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/unplugged.jpg",
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
@@ -689,7 +689,7 @@
 		"description": "Psychedellia is the mainstage non-competitive event for Musical Bands, with no judges. Being a mainstage event of Effervescence, it presents you with an opportunity that will always be a win win situation.",
 		"location": "Main Stage",
 		"timestamp": 1538757000,
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/psychedellia.jpg",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/psychedellia.jpg",
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
@@ -715,7 +715,7 @@
 		"description": "Melodieux is a competitive music event organised for just singers. May the one with the best voice win!",
 		"location": "Main Audi",
 		"timestamp": 1538910000,
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/melodeiux.jpg",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/melodeiux.jpg",
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
@@ -835,7 +835,7 @@
   {
 	  "id": 140,
 	  "name": "Meme Slam",
-	  "description": "Meme Slam, is the launchpad for people with a good sensse of humour who can put their cool ideas on posts(not paper!)..",
+	  "description": "Meme Slam, is the launchpad for people with a good sense of humour who can put their cool ideas on posts(not paper!)..",
 	  "location": "Online",
 	  "timestamp": 2,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/meme.jpg",
@@ -903,7 +903,7 @@
 				"phoneNumber": 7743804428
 			},
 			{
-				"name": "Dhariya Baweja",
+				"name": "Dhairya Baweja",
 				"phoneNumber": 9873737826
 			}
 		]
@@ -1072,7 +1072,7 @@
 		"description": "College Bands battling for recognition and the thrill to perform in front of a live audience. Great competition, Greater effort.",
 		"location": "Main Stage",
 		"timestamp": 1538762400,
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/events/incendiary.jpg",
+		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/incendiary.jpg",
 		"facebookEventLink": "",
 		"additionalInfo": [],
 		"categories": [
@@ -1097,7 +1097,7 @@
 	{
 	  "id": 151,
 	  "name": "EDM Night",
-	  "description": "ffervescence presents the star studded affair,the one with it’s own flavour and identity- the EDM Night.The night with international DJs playing beats which gets the ground flaming and thousands of people that gather,dancing the night away.The one that lets you groove to the some heart pumping music and experience a ride of fun ,delight and excitement.",
+	  "description": "Effervescence presents the star studded affair,the one with it’s own flavour and identity- the EDM Night.The night with international DJs playing beats which gets the ground flaming and thousands of people that gather,dancing the night away.The one that lets you groove to the some heart pumping music and experience a ride of fun ,delight and excitement.",
 	  "location": "Main Stage",
 	  "timestamp": 1538771400,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/edm.jpg",
@@ -1142,7 +1142,7 @@
 	{
 	  "id": 155,
 	  "name": "A'La Mode",
-	  "description": "High on the Fashion quotient and too Glam to give a Damn, the Fashionistas eccentricate the stage in all colours and outfits in the Fashion Show at Effervescence'17.",
+	  "description": "High on the Fashion quotient and too Glam to give a Damn, the Fashionistas eccentricate the stage in all colours and outfits in the Fashion Show at Effervescence.",
 	  "location": "Main Stage",
 	  "timestamp": 1538854200,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/alamode.jpg",
@@ -1157,7 +1157,7 @@
 	{
 	  "id": 156,
 	  "name": "Celebrity Night",
-	  "description": "Mark your calendars as the limelight of the Bollywood Music Industry is all set to ablaze the stage of IIIT Allahabad on 15th October. With Chartbusters such as Rock On! and Zindagi Na Milegi Dobara under his name, it’s going to be a night extraordinaire.",
+	  "description": "Our celeb night is the culmination of the excitement, nostalgia and priceless fun that we strive to increase by leaps and bounds every year. Get ready to be mesmerized as Sunidhi will bring this year's Effervescence to a fitting end on 7th of October. It's gonna be a night that you'll never forget.",
 	  "location": "Main Stage",
 	  "timestamp": 1538940600,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/celebnight.jpg",
@@ -1198,7 +1198,7 @@
 	{
 	"id": 158,
 	"name": "PUBG Mobile Solo",
-	"description": "This event consists of a competition of popular Android Game  Mobile",
+	"description": "This event consists of a competition of popular Android Game Mobile",
 	"location": "CC-3",
 	"timestamp": 1538827200,
 	"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/pubg.jpg",
