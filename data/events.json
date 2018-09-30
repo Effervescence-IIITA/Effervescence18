@@ -1221,37 +1221,6 @@
 		}
 		]
 	},
-	{
-		"id": 200,
-		"name": "Just a Minute",
-		"description": "Amazing hand-eye coordination, sharp and fast thinking, and a zest to win are prerequisites for this reboot of A Minute to Win It. No time to ponder and no time to panic. Juggle, run, sing, speak, dance, jump. The condition is, you’ve merely got a minute to win it!",
-		"location": "Main Stage",
-		"timestamp": 1538940600,
-		"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/justaminute.png",
-		"facebookEventLink": "",
-		"additionalInfo": [],
-		"categories": [
-			"informal",
-			"gaming"
-		],
-		"organizers": [
-			]
-		},
-		{
-			"id": 201,
-			"name": "AdMania",
-			"description": "Ever saw an advertisement and thought you could do sometime a lot better? Well here is your chance. Come, give it a try , show of your creative skills and may be walk out with some grand prizes.",
-			"location": "Main Stage",
-			"timestamp": 1538940600,
-			"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/admania.jpg",
-			"facebookEventLink": "",
-			"additionalInfo": [],
-			"categories": [
-				"informal"
-			],
-			"organizers": [
-				]
-		},
 		{
 			"id": 202,
 			"name": "Pictionary",
