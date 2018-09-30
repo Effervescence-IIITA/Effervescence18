@@ -610,7 +610,7 @@
 	{
 	  "id": 131,
 	  "name": "Kahani",
-	  "description": "An online event to test your scriptwriting skills. All you have to do is write a story and post it on Rangtarangini IIITA's facebook page.",
+	  "description": "An online event to test your scriptwriting skills. All you have to do is write a story and submit your entry at rangtarangini.society@iiita.ac.in",
 	  "location": "",
 	  "timestamp": 2,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/kahani.jpg",
@@ -621,7 +621,7 @@
 	  ],
 	  "organizers": [
 		{
-		  "name": "Ambuj Agarwal",
+		  "name": "Ambuj Agrawal",
 		  "phoneNumber": 7052193111
 		}
 	  ]
@@ -854,7 +854,7 @@
 				"phoneNumber": 8375041057
 			},
 			{
-				"name": "Ambuj Agarwal",
+				"name": "Ambuj Agrqwal",
 				"phoneNumber": 7052193111
 			}
 	
@@ -1276,6 +1276,56 @@
 				{
 					"name": "Vinamer Vansil",
 					"phoneNumber": 8872037391
+				}
+				]
+		},
+		{
+			"id": 203,
+			"name": "Bluffmaster",
+			"description": "Beat them or bluff them. A quiz where confidence enthralls, and deception prevails.",
+			"location": "CC-3",
+			"timestamp": 1538751600,
+			"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/bluff.jpg",
+			"facebookEventLink": "https://www.facebook.com/events/2045816718828614/",
+			"additionalInfo": [],
+			"categories": [
+				"informal"
+			],
+			"organizers": [
+				{
+					"name": "Sai Sreeja",
+					"phoneNumber": 9517038129
+				},
+				{
+					"name": "Shivansh",
+					"phoneNumber": 9131988136
+				},
+				{
+					"name": "Dhruv",
+					"phoneNumber": 9045742775
+				}
+				]
+		},
+		{
+			"id": 204,
+			"name": "Whisperer",
+			"description": "Beat them or bluff them. A quiz where confidence enthralls, and deception prevails.",
+			"location": "CC-3",
+			"timestamp": 1538755200,
+			"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/whisperer.jpg",
+			"facebookEventLink": "https://www.facebook.com/events/531124310681570/",
+			"additionalInfo": [],
+			"categories": [
+				"informal"
+			],
+			"organizers": [
+				{
+					"name": "Aadya Mishra",
+					"phoneNumber": 809090322
+				},
+				{
+					"name": "Anubhav Marwaha",
+					"phoneNumber": 8818905968
 				}
 				]
 		}
