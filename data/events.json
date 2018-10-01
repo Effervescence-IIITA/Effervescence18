@@ -1095,21 +1095,6 @@
 		]
 	},
 	{
-	  "id": 151,
-	  "name": "EDM Night",
-	  "description": "Effervescence presents the star studded affair,the one with it’s own flavour and identity- the EDM Night.The night with international DJs playing beats which gets the ground flaming and thousands of people that gather,dancing the night away.The one that lets you groove to the some heart pumping music and experience a ride of fun ,delight and excitement.",
-	  "location": "Main Stage",
-	  "timestamp": 1538771400,
-	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/edm.jpg",
-	  "facebookEventLink": "",
-	  "additionalInfo": [],
-	  "categories": [
-		"main stage",
-		"pro shows"
-	  ],
-	  "organizers": []
-	},
-	{
 	  "id": 152,
 	  "name": "Humour Night",
 	  "description": "Effervescence brings to you the Humour Night-The biggest Night of the carnival!The one that’ll let you forget your woes at least for one night and laugh your heart out for this is the chance to witness live some of the amazing comedians from around the country .The one which is known to bring some rib-tickling act that is sure to leave you wanting for more.",
