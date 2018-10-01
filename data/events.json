@@ -350,7 +350,7 @@
 	  "name": "Photobooth",
 	  "description": "If you are obsessed with getting yourself clicked, then we present the Photo Booth for you where you can have your pictures taken with props and all the dreamworks of a carnival presented just for you! Enter Pose and Click!",
 	  "location": "Main Ground",
-	  "timestamp": 100,
+	  "timestamp": 1538870400,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/photobooth.png",
 	  "facebookEventLink": "https://www.facebook.com/events/240179486651136/",
 	  "additionalInfo": [],
@@ -1278,7 +1278,7 @@
 		{
 			"id": 204,
 			"name": "Whisperer",
-			"description": "Beat them or bluff them. A quiz where confidence enthralls, and deception prevails.",
+			"description": "One of the most fun events of Effervescence'18! \nWhisperer : You will have to participate in a team of two\nRound 1: Your partner will have headphones on his ears and you'll have to whisper a fun word/phrase that we'll give you and the other teammate will have to guess it. For every wrong guess, you'll have to do a fun task\nRound 2: This will be organized between two teams each with whispers as in the first round with a twist that you can't imagine involved to decide the winners!\nParticipate with your best buddy and test your understanding! Come with your group and we promise to make it an unforgettable experience for you and your squad\nAmazing prizes and goodies await you all!",
 			"location": "CC-3",
 			"timestamp": 1538755200,
 			"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/whisperer.jpg",
@@ -1297,6 +1297,36 @@
 					"phoneNumber": 8818905968
 				}
 				]
+		},
+		{
+			"id": 204,
+			"name": "EDM Night",
+			"description": "Effervescence presents the star studded affair, the one with it’s own flavour and identity- the EDM Night. Previous year's performers like 'SunBurn' and 'Club Banditz' made everyone groove to their sick beats. This year, Zephyrtone will do the same, but in a much grander way!",
+			"location": "Main Stage",
+			"timestamp": 1538771400,
+			"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/edm.jpg",
+			"facebookEventLink": "",
+			"additionalInfo": [],
+			"categories": [
+			"main stage",
+			"pro shows"
+			],
+			"organizers": []
+		},
+		{
+			"id": 205,
+			"name": "Rock Night",
+			"description": "The standard has been set high with Lagori and The Local Train performing in the previous editions. We loved The Local Train so much, we are bringing back them here once again!",
+			"location": "Main Stage",
+			"timestamp": 1538866800,
+			"imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/localtrain.jpg",
+			"facebookEventLink": "",
+			"additionalInfo": [],
+			"categories": [
+			"main stage",
+			"pro shows"
+			],
+			"organizers": []
 		}
 	
 ]
