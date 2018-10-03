@@ -165,6 +165,28 @@
 },
 {
   "id": 1015,
+  "name": "AnimeRide",
+  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/animeride.jpg",
+  "categories": [
+    "Event Partner",
+    "Animania"
+  ],
+  "website": "https://animeride.com/",
+  "priority": 4
+},
+{
+  "id": 1016,
+  "name": "Fashion Gallery",
+  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/fgallery.jpg",
+  "categories": [
+    "Event Partner",
+    "Blind Date"
+  ],
+  "website": "",
+  "priority": 4
+},
+{
+  "id": 1017,
   "name": "Zebronics",
   "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/zebronics.jpg",
   "categories": [
@@ -174,7 +196,7 @@
   "priority": 5
 },
 {
-  "id": 1016,
+  "id": 1018,
   "name": "Gaana",
   "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/gaana.png",
   "categories": [
@@ -184,58 +206,67 @@
   "priority": 6
 },
 {
-  "id": 1017,
+  "id": 1019,
+  "name": "Honda",
+  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/honda.png",
+  "categories": [
+    "Mobility Partner"
+  ],
+  "website": "https://www.honda2wheelersindia.com/",
+  "priority": 7
+},
+{
+  "id": 1020,
   "name": "Neon Gaming Studio",
   "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/neonGamingStudio.jpg",
   "categories": [
     "Gaming Partner"
   ],
   "website": "https://neongamingstudio.com/",
-  "priority": 7
+  "priority": 8
 },
 {
-  "id": 1018,
+  "id": 1021,
   "name": "Souled Store",
   "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/souledStore.png",
   "categories": [
     "Gifting Partner"
   ],
   "website": "https://www.thesouledstore.com/",
-  "priority": 8
+  "priority": 9
 },
 {
-  "id": 1019,
+  "id": 1022,
   "name": "Patanjali Atta Noodles",
   "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/atta.png",
   "categories": [
     "Gifting Partner"
   ],
   "website": "https://www.patanjaliayurved.net/",
-  "priority": 8
+  "priority": 9
 },
 {
-  "id": 1020,
+  "id": 1023,
   "name": "YOSO",
   "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/yoso.jpeg",
   "categories": [
     "Gifting Partner"
   ],
   "website": "",
-  "priority": 8
+  "priority": 9
 },
 {
-  "id": 1021,
+  "id": 1024,
   "name": "Patanjali Divya Jal",
   "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/patanjali.jpeg",
   "categories": [
     "Hydration Partner"
   ],
   "website": "https://www.patanjaliayurved.net/",
-  "priority": 9
+  "priority": 10
 },
-
 {
-  "id": 1022,
+  "id": 1025,
   "name": "Amul",
   "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/Amul.png",
   "categories": [
@@ -245,17 +276,37 @@
   "priority": 10
 },
 {
-  "id": 1023,
+  "id": 1026,
   "name": "Resonance Studios and Academy",
   "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/Resonance.jpg",
   "categories": [
     "Recording Partner"
   ],
   "website": "http://resonancestudios.in/",
-  "priority": 10
+  "priority": 11
 },
 {
-  "id": 1024,
+  "id": 1027,
+  "name": "Safexpress",
+  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/safexpress.jpg",
+  "categories": [
+    "Official Supply Chain Partner"
+  ],
+  "website": "http://www.safexpress.com/",
+  "priority": 12
+},
+{
+  "id": 1028,
+  "name": "The College Fever",
+  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/collegefever.png",
+  "categories": [
+    "Online Ticketing Partner"
+  ],
+  "website": "https://www.thecollegefever.com/",
+  "priority": 12
+},
+{
+  "id": 1029,
   "name": "Peta YOUTH",
   "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/peta.jpg",
   "categories": [
@@ -265,7 +316,7 @@
   "priority": 12
 },
 {
-  "id": 1025,
+  "id": 1030,
   "name": "Canara",
   "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/canara.png",
   "categories": [
@@ -275,7 +326,7 @@
   "priority": 13
 },
 {
-  "id": 1026,
+  "id": 1031,
   "name": "HDFC",
   "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/hdfc.png",
   "categories": [
@@ -285,7 +336,7 @@
   "priority": 13
 },
 {
-  "id": 1027,
+  "id": 1032,
   "name": "PNB",
   "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/pnb.png",
   "categories": [
@@ -295,7 +346,7 @@
   "priority": 13
 },
 {
-  "id": 1028,
+  "id": 1033,
   "name": "IOB",
   "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/iob.png",
   "categories": [
@@ -305,7 +356,7 @@
   "priority": 13
 },
 {
-  "id": 1029,
+  "id": 1034,
   "name": "Bank of Baroda",
   "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/bob.png",
   "categories": [
@@ -315,7 +366,7 @@
   "priority": 13
 },
 {
-  "id": 1030,
+  "id": 1035,
   "name": "SBI",
   "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence17/raw/master/images/sponsors/sbi.png",
   "categories": [
@@ -325,7 +376,7 @@
   "priority": 13
 },
 {
-  "id": 1031,
+  "id": 1036,
   "name": "Axis Bank",
   "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/axis.png",
   "categories": [
@@ -335,7 +386,7 @@
   "priority": 13
 },
 {
-  "id": 1032,
+  "id": 1037,
   "name": "Indian Bank",
   "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/indian.png",
   "categories": [
@@ -345,7 +396,7 @@
   "priority": 13
 },
 {
-  "id": 1033,
+  "id": 1038,
   "name": "Fever 94.3 FM",
   "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/fever.jpg",
   "categories": [
@@ -354,9 +405,48 @@
   "website": "https://www.facebook.com/feverAllahabadi/",
   "priority": 14
 },
-
 {
-  "id": 1034,
+  "id": 1039,
+  "name": "Canvas Talent",
+  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/canvas.png",
+  "categories": [
+    "Event Company"
+  ],
+  "website": "http://www.canvastalent.com/",
+  "priority": 15
+},
+{
+  "id": 1040,
+  "name": "Dream Makers",
+  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/dream.png",
+  "categories": [
+    "Event Company"
+  ],
+  "website": "",
+  "priority": 15
+},
+{
+  "id": 1041,
+  "name": "EVC",
+  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/evc.jpg",
+  "categories": [
+    "Event Company"
+  ],
+  "website": "https://evc.co.in/",
+  "priority": 15
+},
+{
+  "id": 1042,
+  "name": "Eminence",
+  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/eminence.png",
+  "categories": [
+    "Event Company"
+  ],
+  "website": "",
+  "priority": 15
+},
+{
+  "id": 1043,
   "name": "ZNetLive",
   "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/zentLive.png",
   "categories": [
@@ -366,7 +456,17 @@
   "priority": 15
 },
 {
-  "id": 1035,
+  "id": 1044,
+  "name": "Admaker Graphics",
+  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/admaker.png",
+  "categories": [
+    "Branding Partner"
+  ],
+  "website": "",
+  "priority": 20
+},
+{
+  "id": 1045,
   "name": "Blogadda",
   "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/BlogAdda.png",
   "categories": [
@@ -376,7 +476,7 @@
   "priority": 16
 },
 {
-  "id": 1036,
+  "id": 1046,
   "name": "ED Times",
   "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/EDTimes.jpeg",
   "categories": [
@@ -386,7 +486,7 @@
   "priority": 17
 },
 {
-  "id": 1037,
+  "id": 1047,
   "name": "PaisaWapas",
   "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/paisawapas.png",
   "categories": [
@@ -396,7 +496,7 @@
   "priority": 18
 },
 {
-  "id": 1038,
+  "id": 1048,
   "name": "ATKT",
   "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/atkt.png",
   "categories": [
@@ -406,7 +506,7 @@
   "priority": 19
 },
 {
-  "id": 1039,
+  "id": 1049,
   "name": "Festpav",
   "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/festPav.png",
   "categories": [
@@ -416,7 +516,7 @@
   "priority": 20
 },
 {
-  "id": 1040,
+  "id": 1050,
   "name": "Zoutons",
   "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/zoutons.png",
   "categories": [
@@ -426,7 +526,7 @@
   "priority": 20
 },
 {
-  "id": 1041,
+  "id": 1051,
   "name": "Collegedunia",
   "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/collegeDunia.jpg",
   "categories": [
@@ -437,7 +537,7 @@
 },
 
 {
-  "id": 1042,
+  "id": 1052,
   "name": "OhCampus",
   "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/ohCampus.jpeg",
   "categories": [
@@ -447,7 +547,7 @@
   "priority": 20
 },
 {
-  "id": 1043,
+  "id": 1053,
   "name": "Youth Incorporated",
   "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/Youthincorporated.png",
   "categories": [
@@ -457,7 +557,7 @@
   "priority": 20
 },
 {
-  "id": 1044,
+  "id": 1054,
   "name": "Lawctopus",
   "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/lawctopus.png",
   "categories": [
@@ -467,7 +567,7 @@
   "priority": 20
 },
 {
-  "id": 1045,
+  "id": 1055,
   "name": "NoticeBard",
   "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/sponsors/noticebard.png",
   "categories": [
