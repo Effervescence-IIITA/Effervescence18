@@ -4,7 +4,7 @@
 	  "name": "Gully Cricket",
 	  "description": "Effervescence gave people a Blast from the Past- a chance to reminisce and relive your fond memories of the past. The window panes you would have broken and the scoldings you got from the neighbours for the same!!! The huge participation it brings is understandable as is quite relatable.\nThis event features separate contests for both girls and boys.",
 	  "location": "Lawn Tennis Court",
-	  "timestamp": 153881640
+	  "timestamp": 1538816400,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/gully_cricket.jpg",
 	  "facebookEventLink": "https://www.facebook.com/events/2299253436770805/",
 	  "additionalInfo": [],
@@ -320,9 +320,9 @@
 	},
 	{
 	  "id": 118,
-	  "name": "Convocation Ground",
+	  "name": "Roadies",
 	  "description": "If you've got the brains and the brawn, look no further for the ultimate test of your physical and mental strength. This is no mere reboot of the T.V. series.",
-	  "location": "CC-3",
+	  "location": "Convocation Ground",
 	  "timestamp": 1538737200,
 	  "imageUrl": "https://github.com/Effervescence-IIITA/Effervescence18/raw/master/images/events/roadies.png",
 	  "facebookEventLink": "https://www.facebook.com/events/1335370726594100/",
